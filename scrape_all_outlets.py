@@ -233,6 +233,14 @@ def main(limit=1):
             if not name or not url:
                 print(f"Skipping row {idx}: missing name or url")
                 continue
+
+            # If an output file already exists for this outlet, skip it (resume behavior)
+            fname = safe_filename(name) + '_reviews.csv'
+            outpath = os.path.join(OUTPUT_DIR, fname)
+            if os.path.exists(outpath):
+                print(f"Skipping '{name}' - output already exists at {outpath}")
+                continue
+
             result = scrape_reviews(name, url, driver, wait)
             print(f"Result for {name}: {result}")
     finally:
