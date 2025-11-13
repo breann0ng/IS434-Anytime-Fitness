@@ -1,0 +1,135 @@
+outlet,total_reviews,positive,neutral,negative,no_text,pct_positive,pct_neutral,pct_negative
+Anytime Fitness Bedok 85,1003,810,184,9,147,80.76,18.34,0.9
+Anytime Fitness City Square Mall,953,858,75,20,52,90.03,7.87,2.1
+Anytime Fitness Bugis,883,675,182,26,155,76.44,20.61,2.94
+Anytime Fitness Bukit Timah Central,882,671,189,22,164,76.08,21.43,2.49
+Anytime Fitness Orchard,814,652,137,25,106,80.1,16.83,3.07
+Anytime Fitness Buona Vista,773,691,62,20,40,89.39,8.02,2.59
+Anytime Fitness Havelock Outram,606,472,125,9,99,77.89,20.63,1.49
+Anytime Fitness Chai Chee,552,403,138,11,117,73.01,25.0,1.99
+Anytime Fitness Ang Mo Kio South,539,463,66,10,54,85.9,12.24,1.86
+Anytime Fitness Pasir Panjang,511,477,23,11,2,93.35,4.5,2.15
+Anytime Fitness Geylang Bahru,463,400,56,7,41,86.39,12.1,1.51
+Anytime Fitness Punggol Oasis,457,411,31,15,16,89.93,6.78,3.28
+Anytime Fitness Ang Mo Kio,451,397,39,15,22,88.03,8.65,3.33
+Anytime Fitness Sengkang Rivervale,437,355,70,12,44,81.24,16.02,2.75
+Anytime Fitness Junction 9 Yishun,408,297,72,39,53,72.79,17.65,9.56
+Anytime Fitness Tampines,397,353,31,13,17,88.92,7.81,3.27
+Anytime Fitness Toa Payoh,378,319,46,13,22,84.39,12.17,3.44
+Anytime Fitness Serangoon Garden,376,251,114,11,105,66.76,30.32,2.93
+Anytime Fitness Jurong Summit,374,286,80,8,73,76.47,21.39,2.14
+Anytime Fitness Woods Square,368,261,75,32,63,70.92,20.38,8.7
+Anytime Fitness Sembawang,366,346,13,7,3,94.54,3.55,1.91
+Anytime Fitness New Upper Thomson,338,238,96,4,84,70.41,28.4,1.18
+Anytime Fitness SKH Campus,324,299,14,11,3,92.28,4.32,3.4
+Anytime Fitness New Queensway,303,279,14,10,1,92.08,4.62,3.3
+Anytime Fitness NEX,295,88,147,60,124,29.83,49.83,20.34
+Anytime Fitness Sunway Big Box,283,244,34,5,33,86.22,12.01,1.77
+Anytime Fitness New Tech Park,275,242,25,8,21,88.0,9.09,2.91
+Anytime Fitness NorthShore Plaza,272,208,54,10,34,76.47,19.85,3.68
+Anytime Fitness Tanjong Pagar,267,201,46,20,42,75.28,17.23,7.49
+Anytime Fitness Jurong East Central,249,149,61,39,45,59.84,24.5,15.66
+Anytime Fitness Northpoint City,243,83,97,63,85,34.16,39.92,25.93
+Anytime Fitness Katong,243,235,2,6,0,96.71,0.82,2.47
+Anytime Fitness Yishun East,240,192,45,3,38,80.0,18.75,1.25
+Anytime Fitness Upper Serangoon,235,202,29,4,21,85.96,12.34,1.7
+Anytime Fitness ACE The Place CC,231,128,85,18,75,55.41,36.8,7.79
+Anytime Fitness Potong Pasir,225,180,37,8,30,80.0,16.44,3.56
+Anytime Fitness Bukit Batok CSC,219,155,46,18,37,70.78,21.0,8.22
+Anytime Fitness Bedok Central,216,105,100,11,92,48.61,46.3,5.09
+Anytime Fitness Wisteria Mall,205,123,63,19,51,60.0,30.73,9.27
+Anytime Fitness Wheelock Place,204,195,2,7,0,95.59,0.98,3.43
+Anytime Fitness D'Arena Jurong,203,172,29,2,27,84.73,14.29,0.99
+Anytime Fitness Bukit Panjang,199,159,31,9,24,79.9,15.58,4.52
+Anytime Fitness Grantral Complex,198,148,28,22,18,74.75,14.14,11.11
+Anytime Fitness Admiralty,190,105,65,20,56,55.26,34.21,10.53
+Anytime Fitness Raffles Place,189,140,43,6,37,74.07,22.75,3.17
+Anytime Fitness Choa Chu Kang,189,86,87,16,78,45.5,46.03,8.47
+Anytime Fitness Harbourfront,178,146,25,7,16,82.02,14.04,3.93
+Anytime Fitness Boon Keng,177,130,34,13,28,73.45,19.21,7.34
+Anytime Fitness City Hall,172,155,5,12,0,90.12,2.91,6.98
+Anytime Fitness Cecil Street,171,93,49,29,35,54.39,28.65,16.96
+Anytime Fitness Hougang Central,166,138,13,15,5,83.13,7.83,9.04
+Anytime Fitness Clementi City,160,78,60,22,47,48.75,37.5,13.75
+Anytime Fitness Pasir Ris Elias CC,155,131,18,6,11,84.52,11.61,3.87
+Anytime Fitness Holland Village,152,119,20,13,16,78.29,13.16,8.55
+Anytime Fitness Marine Parade Central,151,102,44,5,38,67.55,29.14,3.31
+Anytime Fitness Geylang Central,143,131,6,6,0,91.61,4.2,4.2
+Anytime Fitness Upper Cross Street,142,58,60,24,53,40.85,42.25,16.9
+Anytime Fitness Bukit Timah,140,79,50,11,44,56.43,35.71,7.86
+Anytime Fitness Paya Lebar,138,51,70,17,63,36.96,50.72,12.32
+Anytime Fitness Jalan Besar,131,62,60,9,52,47.33,45.8,6.87
+Anytime Fitness Choa Chu Kang Centre,130,74,35,21,28,56.92,26.92,16.15
+Anytime Fitness Valley Point,129,61,61,7,58,47.29,47.29,5.43
+Anytime Fitness MacPherson Mall,126,122,2,2,0,96.83,1.59,1.59
+Anytime Fitness Woodgrove,126,77,44,5,35,61.11,34.92,3.97
+Anytime Fitness Tekka Place,123,106,15,2,13,86.18,12.2,1.63
+Anytime Fitness Tiong Bahru Plaza,121,41,71,9,63,33.88,58.68,7.44
+Anytime Fitness Novena,121,71,40,10,39,58.68,33.06,8.26
+Anytime Fitness West Coast Plaza,120,49,59,12,48,40.83,49.17,10.0
+Anytime Fitness Bukit Batok (Le Quest),118,104,12,2,9,88.14,10.17,1.69
+Anytime Fitness Viio@Balestier,116,104,6,6,2,89.66,5.17,5.17
+Anytime Fitness hillV2,112,53,40,19,32,47.32,35.71,16.96
+"Anytime Fitness, Telok Blangah",111,58,47,6,42,52.25,42.34,5.41
+Anytime Fitness Kovan,107,38,47,22,41,35.51,43.93,20.56
+Anytime Fitness Yew Tee Community Club,107,94,7,6,0,87.85,6.54,5.61
+Anytime Fitness Lower Peirce,107,100,6,1,0,93.46,5.61,0.93
+Anytime Fitness Buangkok,101,41,45,15,38,40.59,44.55,14.85
+Anytime Fitness Balestier,99,42,53,4,51,42.42,53.54,4.04
+Anytime Fitness Siglap CC,98,86,11,1,11,87.76,11.22,1.02
+Anytime Fitness MacPherson,97,41,44,12,38,42.27,45.36,12.37
+Anytime Fitness Marymount CC,97,66,19,12,16,68.04,19.59,12.37
+Anytime Fitness Changi,95,94,0,1,0,98.95,0.0,1.05
+Anytime Fitness Eastpoint Mall,92,43,39,10,32,46.74,42.39,10.87
+Anytime Fitness Hougang CC,91,82,6,3,1,90.11,6.59,3.3
+Anytime Fitness Balmoral,86,77,7,2,6,89.53,8.14,2.33
+Anytime Fitness Kembangan,84,66,7,11,0,78.57,8.33,13.1
+Anytime Fitness Cantonment Road,84,38,32,14,30,45.24,38.1,16.67
+Anytime Fitness 537 Bedok North,83,81,1,1,0,97.59,1.2,1.2
+Anytime Fitness Loyang Point,82,44,27,11,24,53.66,32.93,13.41
+Anytime Fitness Aljunied 119,80,50,18,12,17,62.5,22.5,15.0
+Anytime Fitness Mountbatten,78,64,9,5,9,82.05,11.54,6.41
+Anytime Fitness Woodlands North,76,53,18,5,15,69.74,23.68,6.58
+Anytime Fitness Greenwich V,72,32,37,3,37,44.44,51.39,4.17
+Anytime Fitness Keppel,71,51,11,9,9,71.83,15.49,12.68
+Anytime Fitness Kim Seng CC,70,61,6,3,5,87.14,8.57,4.29
+Anytime Fitness Eastwood Centre,70,55,15,0,12,78.57,21.43,0.0
+Anytime Fitness Stevens,68,33,31,4,29,48.53,45.59,5.88
+Anytime Fitness Tampines Central,67,47,17,3,16,70.15,25.37,4.48
+Anytime Fitness Cineleisure Orchard,63,43,18,2,16,68.25,28.57,3.17
+Anytime Fitness Tampines Grande,60,38,12,10,11,63.33,20.0,16.67
+Anytime Fitness Teck Whye,59,45,7,7,5,76.27,11.86,11.86
+Anytime Fitness Simpang Bedok,59,48,11,0,9,81.36,18.64,0.0
+Anytime Fitness Alexis,58,40,13,5,7,68.97,22.41,8.62
+Anytime Fitness Bishan,55,37,11,7,10,67.27,20.0,12.73
+Anytime Fitness Punggol Waterway,53,50,1,2,0,94.34,1.89,3.77
+Anytime Fitness Gambas,53,40,8,5,3,75.47,15.09,9.43
+Anytime Fitness Sunshine Place,46,40,4,2,1,86.96,8.7,4.35
+Anytime Fitness Rochester,39,36,2,1,2,92.31,5.13,2.56
+Anytime Fitness Hwi Yoh CC,39,11,12,16,10,28.21,30.77,41.03
+Anytime Fitness Geylang,39,25,12,2,12,64.1,30.77,5.13
+Anytime Fitness Clementi 354,36,27,8,1,8,75.0,22.22,2.78
+Anytime Fitness Bukit Merah,34,25,8,1,8,73.53,23.53,2.94
+Anytime Fitness Labrador View,31,30,1,0,0,96.77,3.23,0.0
+Anytime Fitness Bukit Batok Connection,27,16,10,1,10,59.26,37.04,3.7
+Anytime Fitness Hong Kah North CC,25,19,3,3,3,76.0,12.0,12.0
+Anytime Fitness Chong Pang,25,21,4,0,4,84.0,16.0,0.0
+Anytime Fitness Clarke Quay,25,23,0,2,0,92.0,0.0,8.0
+Anytime Fitness - Tengah,24,22,2,0,2,91.67,8.33,0.0
+Anytime Fitness Kebun Baru CC,24,21,0,3,0,87.5,0.0,12.5
+Anytime Fitness The Concourse,24,15,6,3,2,62.5,25.0,12.5
+Anytime Fitness Tampines 487,21,20,1,0,1,95.24,4.76,0.0
+Anytime Fitness Bishan 227,21,14,7,0,6,66.67,33.33,0.0
+Anytime Fitness NTU,20,18,0,2,0,90.0,0.0,10.0
+Anytime Fitness Kaki Bukit,20,17,2,1,1,85.0,10.0,5.0
+Anytime Fitness Marsiling MRT,18,14,3,1,2,77.78,16.67,5.56
+Anytime Fitness Upper Changi,18,16,2,0,1,88.89,11.11,0.0
+Anytime Fitness Guillemard,17,10,1,6,1,58.82,5.88,35.29
+Anytime Fitness,12,8,3,1,2,66.67,25.0,8.33
+Anytime Fitness Bukit Merah Central,11,9,0,2,0,81.82,0.0,18.18
+Anytime Fitness Dakota,9,7,2,0,2,77.78,22.22,0.0
+Anytime Fitness Bedok 200 North Ave 1,6,5,1,0,1,83.33,16.67,0.0
+Anytime Fitness Jurong,6,4,1,1,1,66.67,16.67,16.67
+Anytime Fitness 548 Ang Mo Kio,1,0,1,0,1,0.0,100.0,0.0
+Anytime Fitness Joo Chiat,1,1,0,0,0,100.0,0.0,0.0
+Anytime Fitness Yew Tee 614,1,1,0,0,0,100.0,0.0,0.0

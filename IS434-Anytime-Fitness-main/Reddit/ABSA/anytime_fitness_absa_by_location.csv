@@ -1,0 +1,102 @@
+Location,Aspect,Mention_Count,Avg_Sentiment,Positive_Pct,Negative_Pct
+Bedok,Facilities,12,0.1905,50.0,0.0
+Bedok,Price/Fees,6,0.2016,66.67,0.0
+Bedok,Crowdedness,5,0.3456,80.0,20.0
+Bedok,Location/Accessibility,5,0.1571,40.0,20.0
+Bedok,Equipment,4,0.2155,75.0,25.0
+Bedok,Overall Experience,4,0.3001,75.0,25.0
+Bedok,Staff/Service,4,0.3773,75.0,0.0
+Bishan,Location/Accessibility,7,0.1034,28.57,42.86
+Bishan,Crowdedness,4,0.6647,100.0,0.0
+Bishan,Facilities,4,-0.0682,25.0,25.0
+Bishan,Cleanliness,3,0.2446,66.67,33.33
+Bishan,Equipment,3,-0.2759,33.33,66.67
+Bugis,Price/Fees,45,0.0226,37.78,33.33
+Bugis,Facilities,42,0.1337,50.0,30.95
+Bugis,Policies/Contract,37,0.018,45.95,32.43
+Bugis,Staff/Service,18,-0.0186,44.44,44.44
+Bugis,Overall Experience,11,0.0564,45.45,36.36
+Bugis,Crowdedness,10,0.262,50.0,30.0
+Bugis,Location/Accessibility,9,0.0872,33.33,22.22
+Bugis,Equipment,5,-0.1418,20.0,60.0
+Buona,Equipment,4,0.1621,25.0,0.0
+Buona,Facilities,3,-0.1702,0.0,33.33
+Buona Vista,Equipment,4,0.1621,25.0,0.0
+Buona Vista,Crowdedness,3,0.4802,66.67,0.0
+Buona Vista,Facilities,3,-0.1702,0.0,33.33
+Buona Vista,Staff/Service,3,0.4765,100.0,0.0
+Changi,Facilities,8,0.2559,62.5,0.0
+Changi,Crowdedness,5,0.3088,80.0,0.0
+Changi,Location/Accessibility,4,0.4072,75.0,25.0
+Changi,Equipment,4,0.4402,75.0,0.0
+Changi,Staff/Service,3,0.4874,66.67,33.33
+Chinatown,Facilities,6,0.054,16.67,0.0
+Chinatown,Price/Fees,3,-0.0127,0.0,0.0
+City Hall,Crowdedness,5,0.5697,80.0,20.0
+City Hall,Facilities,4,0.3422,75.0,25.0
+City Hall,Equipment,3,0.3076,66.67,0.0
+City Hall,Location/Accessibility,3,0.2401,66.67,0.0
+Harbourfront,Equipment,3,0.2673,33.33,0.0
+Harbourfront,Facilities,3,0.3599,66.67,0.0
+Hougang,Facilities,4,0.1339,50.0,0.0
+JB,Facilities,8,0.1424,75.0,25.0
+JB,Price/Fees,5,-0.0278,40.0,60.0
+JB,Policies/Contract,3,-0.1105,0.0,66.67
+Jurong,Location/Accessibility,6,0.3605,50.0,0.0
+Jurong,Facilities,5,0.3382,80.0,20.0
+Jurong,Overall Experience,3,0.4208,66.67,0.0
+Jurong,Crowdedness,3,0.7373,100.0,0.0
+Jurong,Equipment,3,-0.2746,0.0,33.33
+Kovan,Equipment,3,0.1477,66.67,33.33
+Malaysia,Facilities,4,0.456,100.0,0.0
+Orchard,Facilities,7,0.1402,42.86,14.29
+Orchard,Price/Fees,5,0.4677,80.0,20.0
+Orchard,Location/Accessibility,5,0.2153,40.0,0.0
+Orchard,Crowdedness,4,0.0841,25.0,25.0
+Outram,Facilities,4,0.0811,25.0,0.0
+Outram,Price/Fees,3,-0.0127,0.0,0.0
+Punggol,Facilities,4,0.2931,75.0,0.0
+Punggol,Crowdedness,3,0.3612,100.0,0.0
+Raffles,Crowdedness,4,0.3762,75.0,0.0
+Raffles,Facilities,3,0.1702,33.33,0.0
+Singapore,Facilities,129,0.1754,49.61,14.73
+Singapore,Price/Fees,62,0.1805,54.84,22.58
+Singapore,Crowdedness,45,0.1716,51.11,22.22
+Singapore,Equipment,40,0.1951,52.5,12.5
+Singapore,Overall Experience,35,0.2014,57.14,22.86
+Singapore,Policies/Contract,33,0.0133,33.33,27.27
+Singapore,Location/Accessibility,29,0.112,37.93,24.14
+Singapore,Staff/Service,19,0.1198,52.63,21.05
+Singapore,Cleanliness,12,-0.0014,25.0,41.67
+Tampines,Location/Accessibility,13,0.0711,38.46,30.77
+Tampines,Facilities,9,0.2026,55.56,11.11
+Tampines,Crowdedness,7,0.0343,42.86,28.57
+Tampines,Overall Experience,3,0.6049,100.0,0.0
+Tanjong Pagar,Facilities,5,0.0,0.0,0.0
+Tanjong Pagar,Equipment,3,0.245,33.33,0.0
+Tanjong Pagar,Crowdedness,3,-0.0469,0.0,33.33
+Tiong Bahru,Facilities,3,0.0911,33.33,0.0
+UK,Crowdedness,4,-0.0666,25.0,50.0
+VA,Price/Fees,10,0.1945,60.0,10.0
+VA,Overall Experience,4,-0.1292,50.0,50.0
+VA,Location/Accessibility,3,0.17,66.67,0.0
+VA,Facilities,3,0.1221,66.67,0.0
+VA,Crowdedness,3,-0.1596,33.33,66.67
+Woodlands,Facilities,22,0.2793,72.73,0.0
+Woodlands,Location/Accessibility,15,0.2539,46.67,0.0
+Woodlands,Crowdedness,13,0.071,46.15,23.08
+Woodlands,Price/Fees,12,0.1973,83.33,0.0
+Woodlands,Equipment,8,0.1584,50.0,12.5
+Woodlands,Policies/Contract,8,0.2132,62.5,0.0
+Woodlands,Overall Experience,5,0.4701,100.0,0.0
+Woodlands,Cleanliness,3,0.1297,33.33,33.33
+Woodlands,Staff/Service,3,0.039,66.67,33.33
+Yishun,Facilities,9,0.182,66.67,0.0
+Yishun,Equipment,5,0.3199,60.0,0.0
+Yishun,Crowdedness,5,0.3024,60.0,0.0
+Yishun,Policies/Contract,3,0.0427,33.33,0.0
+Yishun,Location/Accessibility,3,0.3297,33.33,0.0
+Yishun,Overall Experience,3,0.702,100.0,0.0
+n’t,Facilities,3,0.2127,100.0,0.0
+singapore,Price/Fees,4,0.1116,25.0,25.0
+singapore,Facilities,3,-0.0415,33.33,33.33
