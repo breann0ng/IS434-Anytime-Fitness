@@ -1,0 +1,340 @@
+Location,Aspect,Mention_Count,Avg_Sentiment,Positive_Pct,Negative_Pct
+Ang Mo Kio,Staff/Service,485,0.6629529209621993,97.32,1.44
+Ang Mo Kio,Facilities,146,0.5119130136986302,84.93,6.16
+Ang Mo Kio,Overall Experience,285,0.5429496198830409,92.98,4.21
+Ang Mo Kio,Price/Fees,52,0.4580288461538462,76.92,3.85
+Ang Mo Kio,Cleanliness,163,0.5761053680981596,92.02,5.52
+Ang Mo Kio,Equipment,137,0.4653206204379562,81.02,3.65
+Ang Mo Kio,Policies/Contract,33,0.37539999999999996,72.73,9.09
+Ang Mo Kio,Location/Accessibility,74,0.36007162162162154,67.57,8.11
+Ang Mo Kio,Crowdedness,34,0.29480049019607835,58.82,5.88
+Ang Mo Kio,Classes/Programs,11,0.6108636363636365,81.82,0.0
+Bugis,Staff/Service,397,0.6756751679261125,94.71,2.52
+Bugis,Facilities,186,0.5120775985663082,83.33,4.3
+Bugis,Overall Experience,204,0.5803169934640523,90.2,4.9
+Bugis,Equipment,143,0.5477105477855478,87.41,2.8
+Bugis,Policies/Contract,26,0.37220000000000003,73.08,11.54
+Bugis,Crowdedness,51,0.3030558823529412,62.75,7.84
+Bugis,Location/Accessibility,60,0.5112341666666667,85.0,0.0
+Bugis,Cleanliness,185,0.5963450900900902,92.97,3.78
+Bugis,Classes/Programs,19,0.5243368421052633,78.95,0.0
+Bugis,Price/Fees,36,0.31407824074074076,58.33,11.11
+Toa Payoh,Overall Experience,153,0.7238703376906318,98.04,1.96
+Toa Payoh,Staff/Service,149,0.5903843959731544,92.62,3.36
+Toa Payoh,Equipment,40,0.43152875,77.5,5.0
+Toa Payoh,Facilities,54,0.48034351851851853,74.07,3.7
+Toa Payoh,Cleanliness,32,0.5625765625,90.62,6.25
+Toa Payoh,Crowdedness,23,0.26137391304347823,43.48,8.7
+Toa Payoh,Location/Accessibility,28,0.385039880952381,64.29,10.71
+Toa Payoh,Classes/Programs,8,0.27377125,75.0,0.0
+Toa Payoh,Price/Fees,30,0.41987500000000005,76.67,10.0
+Toa Payoh,Policies/Contract,9,0.638438888888889,88.89,0.0
+Tampines,Cleanliness,99,0.579131313131313,93.94,4.04
+Tampines,Location/Accessibility,42,0.39947261904761905,71.43,7.14
+Tampines,Overall Experience,147,0.5510567800453515,96.6,1.36
+Tampines,Equipment,83,0.3784758232931727,71.08,10.84
+Tampines,Facilities,111,0.43020067567567566,79.28,3.6
+Tampines,Staff/Service,271,0.6114209717097171,93.73,2.95
+Tampines,Crowdedness,23,0.24157608695652172,56.52,21.74
+Tampines,Price/Fees,33,0.2859560606060606,66.67,15.15
+Tampines,Classes/Programs,8,0.3859520833333333,75.0,0.0
+Tampines,Policies/Contract,19,0.28807017543859653,63.16,15.79
+Bedok,Staff/Service,614,0.6508377442996743,95.93,0.81
+Bedok,Equipment,129,0.5491935400516796,87.6,0.0
+Bedok,Cleanliness,188,0.6388565602836879,97.34,1.6
+Bedok,Location/Accessibility,87,0.42583467432950206,71.26,3.45
+Bedok,Facilities,170,0.547129068627451,88.24,1.18
+Bedok,Price/Fees,87,0.4387894252873564,74.71,0.0
+Bedok,Policies/Contract,39,0.5737452991452991,87.18,0.0
+Bedok,Overall Experience,228,0.6447200877192981,98.25,0.44
+Bedok,Crowdedness,30,0.3467777777777778,56.67,0.0
+Bedok,Classes/Programs,28,0.49153678571428566,85.71,0.0
+Serangoon,Staff/Service,231,0.5975132292310863,93.94,3.9
+Serangoon,Facilities,136,0.5038661764705883,83.82,2.21
+Serangoon,Price/Fees,14,0.21816785714285714,57.14,14.29
+Serangoon,Overall Experience,168,0.5813130753968254,92.26,4.17
+Serangoon,Crowdedness,86,0.41498604651162774,82.56,2.33
+Serangoon,Cleanliness,128,0.6152225260416666,95.31,2.34
+Serangoon,Equipment,136,0.457026868872549,80.88,2.94
+Serangoon,Location/Accessibility,67,0.3947,71.64,1.49
+Serangoon,Classes/Programs,24,0.4301770833333333,75.0,12.5
+Serangoon,Policies/Contract,15,0.42112,66.67,6.67
+Jurong,Staff/Service,255,0.6512350000000001,94.51,2.35
+Jurong,Cleanliness,111,0.5962478978978979,94.59,0.9
+Jurong,Equipment,162,0.43052244855967076,76.54,5.56
+Jurong,Facilities,221,0.4946589894419306,81.45,1.36
+Jurong,Price/Fees,18,0.37605416666666663,77.78,11.11
+Jurong,Overall Experience,164,0.6367927845528455,94.51,1.22
+Jurong,Classes/Programs,16,0.47322812500000005,81.25,0.0
+Jurong,Crowdedness,35,0.15311714285714284,51.43,20.0
+Jurong,Location/Accessibility,64,0.32637343750000003,65.62,4.69
+Jurong,Policies/Contract,18,0.5138592592592592,83.33,5.56
+Singapore,Staff/Service,135,0.615994049382716,91.85,5.19
+Singapore,Cleanliness,92,0.5816414855072464,88.04,5.43
+Singapore,Equipment,126,0.43314237150415724,73.81,10.32
+Singapore,Facilities,123,0.48315911924119237,81.3,4.88
+Singapore,Price/Fees,35,0.22906680272108842,62.86,17.14
+Singapore,Overall Experience,110,0.5454351212121212,89.09,6.36
+Singapore,Location/Accessibility,73,0.4083406392694064,71.23,6.85
+Singapore,Policies/Contract,28,0.22576785714285716,57.14,25.0
+Singapore,Crowdedness,31,0.3244709677419355,64.52,12.9
+Singapore,Classes/Programs,21,0.4288642857142857,85.71,9.52
+Macpherson,Equipment,60,0.4529704444444445,76.67,5.0
+Macpherson,Facilities,52,0.47309967948717957,78.85,7.69
+Macpherson,Overall Experience,72,0.5946581018518518,93.06,5.56
+Macpherson,Staff/Service,107,0.6469946261682243,93.46,5.61
+Macpherson,Location/Accessibility,25,0.34507999999999994,56.0,16.0
+Macpherson,Price/Fees,13,0.23338846153846154,46.15,23.08
+Macpherson,Crowdedness,26,0.2986980769230769,53.85,15.38
+Macpherson,Cleanliness,52,0.5876211538461539,92.31,5.77
+Macpherson,Policies/Contract,13,0.2887538461538462,61.54,23.08
+Macpherson,Classes/Programs,27,0.4699586419753086,81.48,3.7
+Yishun,Equipment,107,0.3576070093457945,65.42,6.54
+Yishun,Overall Experience,153,0.5479177124183007,88.89,6.54
+Yishun,Cleanliness,132,0.5835310606060605,93.94,4.55
+Yishun,Crowdedness,40,0.20976,50.0,7.5
+Yishun,Staff/Service,322,0.6251300088731144,93.48,4.66
+Yishun,Facilities,111,0.4593825825825826,79.28,9.01
+Yishun,Price/Fees,51,0.18359509803921567,47.06,25.49
+Yishun,Policies/Contract,33,0.22709181818181817,51.52,30.3
+Yishun,Location/Accessibility,48,0.43109375000000005,77.08,4.17
+Yishun,Classes/Programs,9,0.36519722222222223,66.67,0.0
+Hougang,Staff/Service,114,0.6338226608187134,92.98,5.26
+Hougang,Overall Experience,91,0.6608121794871794,94.51,5.49
+Hougang,Cleanliness,40,0.43608125,82.5,12.5
+Hougang,Facilities,41,0.3878617073170731,75.61,7.32
+Hougang,Location/Accessibility,30,0.38611500000000004,73.33,10.0
+Hougang,Equipment,48,0.42253611111111117,75.0,10.42
+Hougang,Price/Fees,9,0.15984814814814813,55.56,33.33
+Hougang,Crowdedness,35,0.13424952380952382,25.71,2.86
+Hougang,Classes/Programs,7,0.3799928571428572,71.43,14.29
+Hougang,Policies/Contract,6,-0.19788333333333333,0.0,50.0
+Colan,Staff/Service,12,0.6500986111111111,100.0,0.0
+Colan,Cleanliness,3,0.36145,66.67,0.0
+Colan,Equipment,6,0.47822499999999996,83.33,0.0
+Colan,Overall Experience,6,0.5654541666666667,83.33,0.0
+Colan,Facilities,5,0.45223,100.0,0.0
+Bukit Timah,Staff/Service,378,0.6795735802469135,95.24,1.85
+Bukit Timah,Equipment,166,0.538857469879518,82.53,6.02
+Bukit Timah,Price/Fees,20,0.3785425,70.0,25.0
+Bukit Timah,Policies/Contract,12,0.6520333333333332,91.67,0.0
+Bukit Timah,Crowdedness,35,0.35024,62.86,5.71
+Bukit Timah,Facilities,133,0.5605198120300752,85.71,3.76
+Bukit Timah,Overall Experience,180,0.6272068082010581,93.33,1.11
+Bukit Timah,Cleanliness,146,0.6451746575342466,94.52,4.79
+Bukit Timah,Location/Accessibility,54,0.42310138888888893,72.22,7.41
+Bukit Timah,Classes/Programs,10,0.23448000000000002,50.0,10.0
+Novena,Staff/Service,54,0.5220381172839507,85.19,12.96
+Novena,Cleanliness,29,0.5128798850574714,82.76,10.34
+Novena,Price/Fees,13,0.12093076923076923,38.46,23.08
+Novena,Policies/Contract,9,0.19345,66.67,11.11
+Novena,Overall Experience,24,0.52398125,87.5,12.5
+Novena,Equipment,23,0.39074456521739126,73.91,17.39
+Novena,Facilities,26,0.5436798076923076,88.46,3.85
+Novena,Location/Accessibility,13,0.3953576923076923,69.23,7.69
+Novena,Classes/Programs,6,0.53505,83.33,0.0
+Novena,Crowdedness,8,0.39663125,75.0,0.0
+Brandon,Staff/Service,5,0.6734200000000001,100.0,0.0
+Harbourfront,Staff/Service,90,0.5789702407407407,88.89,3.33
+Harbourfront,Cleanliness,25,0.47412666666666675,88.0,4.0
+Harbourfront,Equipment,50,0.33171599999999996,64.0,12.0
+Harbourfront,Facilities,56,0.3890919642857143,75.0,7.14
+Harbourfront,Classes/Programs,6,0.40073333333333333,66.67,16.67
+Harbourfront,Overall Experience,60,0.5453491666666666,88.33,8.33
+Harbourfront,Crowdedness,14,0.21432857142857142,50.0,14.29
+Harbourfront,Price/Fees,5,0.34896000000000005,80.0,0.0
+Harbourfront,Location/Accessibility,21,0.2846190476190476,47.62,9.52
+Harbourfront,Policies/Contract,4,0.567075,100.0,0.0
+Hazwan,Staff/Service,4,0.5649458333333334,75.0,0.0
+Bishan,Equipment,21,0.4603309523809524,76.19,4.76
+Bishan,Crowdedness,14,0.3813142857142857,78.57,14.29
+Bishan,Location/Accessibility,16,0.3520875,62.5,6.25
+Bishan,Classes/Programs,11,0.26899090909090906,63.64,9.09
+Bishan,Staff/Service,28,0.3817223214285714,78.57,21.43
+Bishan,Overall Experience,20,0.6440216666666666,100.0,0.0
+Bishan,Cleanliness,15,0.5482,93.33,0.0
+Bishan,Facilities,16,0.6888218749999999,100.0,0.0
+Bishan,Price/Fees,5,0.0939,60.0,40.0
+Sengkang,Facilities,3,0.5501666666666667,100.0,0.0
+Sengkang,Staff/Service,3,0.6398805555555556,100.0,0.0
+Pasir Ris,Staff/Service,82,0.6217713414634147,92.68,2.44
+Pasir Ris,Cleanliness,8,0.44473125,75.0,12.5
+Pasir Ris,Price/Fees,12,0.4207416666666666,66.67,8.33
+Pasir Ris,Overall Experience,55,0.5670824848484848,90.91,1.82
+Pasir Ris,Policies/Contract,11,0.21825454545454545,54.55,27.27
+Pasir Ris,Classes/Programs,15,0.3574511111111111,66.67,6.67
+Pasir Ris,Equipment,18,0.2848388888888889,61.11,11.11
+Pasir Ris,Facilities,16,0.38988125000000007,75.0,18.75
+Pasir Ris,Location/Accessibility,8,0.5346375,87.5,0.0
+Woodlands,Staff/Service,34,0.6315651960784313,97.06,2.94
+Woodlands,Equipment,34,0.31050588235294124,67.65,14.71
+Woodlands,Price/Fees,4,0.2577,50.0,0.0
+Woodlands,Location/Accessibility,28,0.25792857142857145,53.57,10.71
+Woodlands,Overall Experience,27,0.5587543209876543,92.59,7.41
+Woodlands,Facilities,28,0.36907142857142855,75.0,14.29
+Woodlands,Classes/Programs,6,0.4522833333333333,83.33,0.0
+Woodlands,Crowdedness,16,0.25688125,56.25,12.5
+Woodlands,Cleanliness,10,0.39701000000000003,70.0,20.0
+Orchard,Staff/Service,424,0.6976956957547169,96.23,1.65
+Orchard,Cleanliness,137,0.627856812652068,96.35,3.65
+Orchard,Equipment,162,0.5071020061728396,85.19,4.94
+Orchard,Location/Accessibility,95,0.48792157894736843,81.05,5.26
+Orchard,Overall Experience,228,0.6231760233918129,97.37,0.88
+Orchard,Facilities,166,0.4888178313253011,80.72,9.04
+Orchard,Price/Fees,32,0.31256874999999995,65.62,18.75
+Orchard,Policies/Contract,25,0.263147,60.0,12.0
+Orchard,Crowdedness,65,0.2985874358974359,63.08,4.62
+Orchard,Classes/Programs,23,0.5325652173913044,91.3,4.35
+Shahmi,Staff/Service,6,0.7551916666666667,100.0,0.0
+Shahmi,Cleanliness,3,0.8272333333333334,100.0,0.0
+Shahmi,Equipment,3,0.6948,100.0,0.0
+Shahmi,Facilities,4,0.7618375,100.0,0.0
+Pasir Panjang,Staff/Service,3,0.7982999999999999,100.0,0.0
+Buona,Staff/Service,10,0.626055,100.0,0.0
+Buona,Cleanliness,5,0.57315,100.0,0.0
+Buona,Equipment,6,0.3937027777777778,83.33,0.0
+Buona,Facilities,6,0.4175716666666667,83.33,0.0
+Buona,Price/Fees,4,0.49760000000000004,75.0,0.0
+Buona,Policies/Contract,3,0.5186416666666667,100.0,0.0
+Buona,Crowdedness,4,0.4505,75.0,0.0
+Buona,Location/Accessibility,5,0.41048,80.0,0.0
+Buona,Overall Experience,6,0.6941222222222222,100.0,0.0
+singapore,Equipment,5,0.49204499999999995,80.0,20.0
+singapore,Overall Experience,8,0.783925,100.0,0.0
+singapore,Staff/Service,12,0.7222158333333333,100.0,0.0
+singapore,Cleanliness,5,0.6400399999999999,80.0,0.0
+singapore,Facilities,8,0.6215125,87.5,0.0
+Philippines,Staff/Service,4,0.5955374999999999,100.0,0.0
+MRT,Staff/Service,4,0.339175,75.0,25.0
+MRT,Cleanliness,4,0.09660000000000002,50.0,50.0
+MRT,Facilities,4,0.1301125,50.0,25.0
+MRT,Location/Accessibility,8,0.03081875,25.0,12.5
+MRT,Equipment,4,0.27290000000000003,75.0,25.0
+Greenwich,Facilities,3,0.4325666666666666,66.67,0.0
+Aircon,Facilities,8,0.19124999999999998,62.5,37.5
+Aircon,Overall Experience,3,0.7176666666666667,100.0,0.0
+Aircon,Cleanliness,3,0.3820333333333334,66.67,33.33
+Aircon,Equipment,3,0.14709999999999998,33.33,33.33
+n’t,Cleanliness,7,0.5301642857142856,100.0,0.0
+n’t,Equipment,3,0.4261,66.67,0.0
+n’t,Facilities,6,0.4380188888888889,83.33,16.67
+n’t,Crowdedness,3,0.13988888888888887,33.33,0.0
+n’t,Location/Accessibility,3,0.4092,100.0,0.0
+n’t,Overall Experience,7,0.3451,71.43,14.29
+n’t,Staff/Service,10,0.4403342857142857,80.0,20.0
+n’t,Price/Fees,4,-0.12248333333333332,25.0,50.0
+n’t,Policies/Contract,3,0.13655833333333334,33.33,33.33
+P.S.,Equipment,3,0.3917833333333334,66.67,0.0
+P.S.,Location/Accessibility,3,0.5282166666666667,66.67,0.0
+P.S.,Overall Experience,3,0.6396666666666667,100.0,0.0
+P.S.,Staff/Service,3,0.8097,100.0,0.0
+AF Sembawang,Overall Experience,3,0.734575,100.0,0.0
+AF Sembawang,Staff/Service,3,0.8163555555555555,100.0,0.0
+Sembawang,Facilities,8,0.23022499999999999,37.5,12.5
+Sembawang,Classes/Programs,3,0.20493333333333333,66.67,33.33
+Sembawang,Overall Experience,7,0.5240452380952381,85.71,0.0
+Sembawang,Staff/Service,9,0.6435342592592592,100.0,0.0
+Sembawang,Policies/Contract,3,0.458,66.67,33.33
+Sembawang,Location/Accessibility,6,0.35342500000000004,83.33,0.0
+Sembawang,Equipment,5,0.39398,80.0,0.0
+Damia,Staff/Service,10,0.6578424999999999,100.0,0.0
+Damia,Overall Experience,6,0.7531916666666666,100.0,0.0
+Damia,Classes/Programs,4,0.55645,75.0,0.0
+Damia,Location/Accessibility,3,0.30233333333333334,33.33,0.0
+QJ,Staff/Service,3,0.41133333333333333,100.0,0.0
+Malaysia,Staff/Service,6,0.019491666666666668,16.67,50.0
+Malaysia,Equipment,4,0.06763333333333335,50.0,50.0
+Malaysia,Price/Fees,3,-0.14049999999999999,0.0,33.33
+Natalia,Staff/Service,8,0.5931124999999999,87.5,0.0
+Natalia,Overall Experience,3,0.6984,100.0,0.0
+Natalia,Cleanliness,3,0.6507666666666667,100.0,0.0
+Precor,Cleanliness,3,0.4365833333333333,100.0,0.0
+Precor,Equipment,4,0.06988437499999997,75.0,25.0
+Precor,Facilities,4,0.3043625,75.0,0.0
+Jordan,Staff/Service,5,0.67222,100.0,0.0
+NS,Facilities,3,0.13795,66.67,33.33
+NS,Location/Accessibility,3,0.30433333333333334,66.67,33.33
+Somerset,Cleanliness,3,0.4415833333333334,66.67,33.33
+Somerset,Facilities,3,0.08923333333333333,33.33,33.33
+Australia,Staff/Service,4,0.2702479166666667,75.0,0.0
+Australia,Cleanliness,4,0.6110249999999999,100.0,0.0
+Australia,Equipment,5,0.41433,80.0,0.0
+Georgina,Staff/Service,4,0.7334375000000001,100.0,0.0
+Georgina,Overall Experience,3,0.6748777777777777,100.0,0.0
+Nina,Staff/Service,7,0.6663749999999998,100.0,0.0
+Nina,Overall Experience,6,0.7528083333333333,100.0,0.0
+Nina,Cleanliness,3,0.7071,100.0,0.0
+Nina,Facilities,3,0.7511333333333333,100.0,0.0
+Dominic,Staff/Service,3,0.7268166666666667,100.0,0.0
+kinda,Facilities,3,0.4643,100.0,0.0
+Kovan,Staff/Service,5,0.60322,80.0,0.0
+Kovan,Facilities,5,0.36560000000000004,60.0,0.0
+Kovan,Cleanliness,5,0.6194366666666667,100.0,0.0
+Kovan,Equipment,5,0.4419575,80.0,0.0
+Kovan,Location/Accessibility,6,0.0891,33.33,16.67
+Kovan,Overall Experience,3,0.7096,100.0,0.0
+Kovan,Price/Fees,3,0.31425000000000003,66.67,33.33
+holland,Staff/Service,3,0.5035333333333333,100.0,0.0
+Japan,Cleanliness,3,0.27992222222222224,66.67,33.33
+Japan,Equipment,3,0.5727944444444445,100.0,0.0
+Japan,Crowdedness,3,0.6003166666666667,100.0,0.0
+Cozy,Location/Accessibility,3,0.15293333333333334,33.33,0.0
+Cozy,Equipment,3,0.3323666666666667,66.67,0.0
+Cozy,Staff/Service,7,0.7320714285714285,100.0,0.0
+Cozy,Overall Experience,3,0.6581,100.0,0.0
+Nadia,Staff/Service,4,0.7238199999999999,100.0,0.0
+Nadia,Cleanliness,3,0.767575,100.0,0.0
+Nadia,Equipment,3,0.7049333333333333,100.0,0.0
+Clementi,Cleanliness,8,0.6076999999999999,100.0,0.0
+Clementi,Equipment,9,0.656961111111111,100.0,0.0
+Clementi,Facilities,14,0.4067857142857143,78.57,21.43
+Clementi,Overall Experience,11,0.5780242424242424,100.0,0.0
+Clementi,Staff/Service,18,0.6980703703703705,100.0,0.0
+Clementi,Crowdedness,5,-0.11794,20.0,60.0
+Clementi,Location/Accessibility,5,0.51664,100.0,0.0
+Eden,Staff/Service,3,0.8176333333333333,100.0,0.0
+Amelia,Staff/Service,17,0.6722549019607843,100.0,0.0
+Amelia,Cleanliness,5,0.66804,80.0,0.0
+Amelia,Overall Experience,6,0.6780583333333333,100.0,0.0
+Amelia,Equipment,4,0.582975,75.0,0.0
+Amelia,Facilities,3,0.5434,66.67,0.0
+Khai,Staff/Service,3,0.46925,100.0,0.0
+Annam,Staff/Service,4,0.629175,100.0,0.0
+Dewi,Staff/Service,11,0.7268969696969697,100.0,0.0
+Dewi,Location/Accessibility,5,0.44374,60.0,0.0
+Dewi,Overall Experience,7,0.6289238095238096,100.0,0.0
+Fatihi,Staff/Service,5,0.6400600000000001,100.0,0.0
+Ezypay,Price/Fees,4,0.043348571428571445,25.0,50.0
+Punggol,Staff/Service,3,0.606375,100.0,0.0
+Punggol,Overall Experience,3,0.6272777777777777,100.0,0.0
+Punggol,Policies/Contract,3,0.6170333333333334,100.0,0.0
+Punggol,Location/Accessibility,3,0.45786666666666664,66.67,0.0
+Punggol,Equipment,3,0.4006444444444444,66.67,33.33
+Lucas,Staff/Service,9,0.47626851851851854,77.78,22.22
+Lucas,Overall Experience,7,0.4190761904761905,85.71,14.29
+Lucas,Location/Accessibility,3,0.7484333333333333,100.0,0.0
+Putri,Staff/Service,5,0.7496033333333333,100.0,0.0
+Putri,Cleanliness,3,0.7937499999999998,100.0,0.0
+Putri,Facilities,3,0.7258833333333334,100.0,0.0
+Putri,Overall Experience,3,0.7244333333333334,100.0,0.0
+Kirtan,Facilities,4,0.8205749999999999,100.0,0.0
+Kirtan,Classes/Programs,14,0.503275,78.57,0.0
+Kirtan,Overall Experience,11,0.6586606060606061,100.0,0.0
+Kirtan,Staff/Service,9,0.6966166666666667,100.0,0.0
+Kirtan,Equipment,6,0.391975,66.67,0.0
+Kirtan,Cleanliness,7,0.7057142857142856,100.0,0.0
+Kirtan,Location/Accessibility,3,0.3269,66.67,33.33
+Khairun,Staff/Service,3,0.8634000000000001,100.0,0.0
+SINGAPORE,Staff/Service,3,0.4967333333333334,66.67,33.33
+natalia,Staff/Service,3,0.8399000000000001,100.0,0.0
+Hadi,Staff/Service,4,0.71155,100.0,0.0
+Hadi,Overall Experience,3,0.7282444444444445,100.0,0.0
+Potong,Staff/Service,3,0.78025,100.0,0.0
+Potong,Overall Experience,3,0.6215,100.0,0.0
+Potong,Facilities,3,0.5537,100.0,0.0
+Brock,Staff/Service,3,0.38215,66.67,33.33
+Marcus,Overall Experience,3,0.6749333333333333,100.0,0.0
+Tekka,Staff/Service,3,0.7999166666666667,100.0,0.0
+Ayden,Staff/Service,4,0.6677500000000001,100.0,0.0
+Yulun,Staff/Service,5,0.7365,100.0,0.0
+Yulun,Overall Experience,5,0.64036,100.0,0.0
