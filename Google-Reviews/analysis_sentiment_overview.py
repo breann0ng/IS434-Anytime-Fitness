@@ -12,10 +12,27 @@ import pandas as pd
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import matplotlib.pyplot as plt
 import seaborn as sns
+from pathlib import Path
 
 sns.set(style='whitegrid')
 
-BASE_DIR = os.getcwd()
+# Robustly locate the repository root so the script works whether it's run from
+# the project root or from a subfolder (similar to the notebook logic).
+cwd = Path(__file__).resolve().parent
+repo_root = None
+target_rel = Path('Reviews') / 'All'  # expect a Reviews/All folder
+p = cwd
+for _ in range(6):
+    candidate = p / target_rel
+    if candidate.exists():
+        repo_root = p
+        break
+    p = p.parent
+if repo_root is None:
+    # fallback to the script directory
+    repo_root = cwd
+
+BASE_DIR = str(repo_root)
 REVIEWS_DIR = os.path.join(BASE_DIR, 'Reviews', 'All')
 OUT_DIR = os.path.join(BASE_DIR, 'Reviews', 'Overview')
 os.makedirs(OUT_DIR, exist_ok=True)
@@ -122,6 +139,30 @@ print('\nDone.')
 # Per-outlet sentiment breakdown
 # -----------------------------
 print('\nComputing per-outlet sentiment summaries...')
+
+# --- new: robustly parse any per-review rating strings into a numeric column ---
+def parse_rating_value(x):
+    if pd.isna(x):
+        return None
+    s = str(x).strip()
+    if s == '' or s.lower() in ('nan', 'none'):
+        return None
+    s = s.replace('/5', '').replace('out of 5', '').strip()
+    # handle star glyphs
+    if '★' in s or '☆' in s:
+        # count filled stars (★) as integer; fallback to numeric extraction
+        filled = s.count('★')
+        if filled:
+            return float(filled)
+    m = re.search(r'[\d\.]+', s)
+    return float(m.group(0)) if m else None
+
+if 'rating' in all_reviews.columns:
+    all_reviews['rating_num'] = all_reviews['rating'].apply(parse_rating_value)
+else:
+    all_reviews['rating_num'] = pd.NA
+# ---------------------------------------------------------------------------
+
 # ensure there's an outlet column; fall back to source_file if missing
 if 'outlet' not in all_reviews.columns or all_reviews['outlet'].isna().all():
     all_reviews['outlet_name'] = all_reviews['source_file'].str.replace('_reviews.csv', '', regex=False)
@@ -136,8 +177,14 @@ for outlet, g in group:
     neu = (g['vader_cat'] == 'neutral').sum()
     neg = (g['vader_cat'] == 'negative').sum()
     no_text = (g['text'].fillna('') == '').sum()
+
+    # compute per-outlet numeric rating (mean of parsed per-review ratings), fallback to None
+    rating_vals = pd.to_numeric(g['rating_num'].dropna(), errors='coerce')
+    rating_mean = float(rating_vals.mean()) if not rating_vals.empty else None
+
     summary_rows.append({
         'outlet': outlet,
+        'rating': round(rating_mean, 2) if rating_mean is not None else None,
         'total_reviews': total,
         'positive': int(pos),
         'neutral': int(neu),
@@ -148,20 +195,38 @@ for outlet, g in group:
         'pct_negative': round(neg / total * 100, 2) if total else 0.0,
     })
 
+# build per-outlet dataframe and sort by total_reviews (rating may be missing for some outlets)
 per_outlet_df = pd.DataFrame(summary_rows).sort_values('total_reviews', ascending=False)
+
 per_outlet_csv = os.path.join(OUT_DIR, 'per_outlet_sentiment_summary.csv')
 per_outlet_df.to_csv(per_outlet_csv, index=False)
 print(f"Saved per-outlet sentiment summary to: {per_outlet_csv}")
 
-# Plot top 20 outlets by total_reviews with stacked bars
+# --- new: also save top N outlets (includes rating) ---
 top_n = 20
-top_df = per_outlet_df.head(top_n).set_index('outlet')
-plt.figure(figsize=(12,8))
-top_df[['positive','neutral','negative']].plot(kind='bar', stacked=True, color=['#2ecc71', '#95a5a6', '#e74c3c'])
-plt.title(f'Top {top_n} Outlets by Reviews - Sentiment Breakdown')
-plt.ylabel('Number of reviews')
-plt.tight_layout()
+top_outlets_df = per_outlet_df.head(top_n).reset_index(drop=True)
+top_outlets_csv = os.path.join(OUT_DIR, f'top_{top_n}_outlets.csv')
+top_outlets_df.to_csv(top_outlets_csv, index=False)
+print(f"Saved top-{top_n} outlets CSV to: {top_outlets_csv}")
+# ---------------------------------------------------------------------------
+
+# define stacked_path early so it's always present in the namespace
 stacked_path = os.path.join(OUT_DIR, 'sentiment_by_outlet_top20.png')
-plt.savefig(stacked_path)
-plt.close()
-print(f"Saved stacked sentiment-by-outlet chart to: {stacked_path}")
+
+# Plot top 20 outlets by total_reviews with stacked bars (skip if no rows)
+top_n = 20
+if per_outlet_df.empty:
+    print("No per-outlet data to plot.")
+else:
+    try:
+        top_df = per_outlet_df.head(top_n).set_index('outlet')
+        plt.figure(figsize=(12,8))
+        top_df[['positive','neutral','negative']].plot(kind='bar', stacked=True, color=['#2ecc71', '#95a5a6', '#e74c3c'])
+        plt.title(f'Top {top_n} Outlets by Reviews - Sentiment Breakdown')
+        plt.ylabel('Number of reviews')
+        plt.tight_layout()
+        plt.savefig(stacked_path)
+        plt.close()
+        print(f"Saved stacked sentiment-by-outlet chart to: {stacked_path}")
+    except Exception as e:
+        print(f"Failed to create stacked bar plot: {e}")
