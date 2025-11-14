@@ -2,11 +2,13 @@
 from __future__ import annotations
 
 import re
+import argparse
 from collections import defaultdict
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, Iterable, List, Sequence
 
+import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -469,7 +471,7 @@ def summarize_by_location(results: Iterable[ReviewResult]) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
-def create_visualizations(summary_df: pd.DataFrame, aspect_scores: Dict[str, List[float]], prefix: str) -> None:
+def create_visualizations(summary_df: pd.DataFrame, aspect_scores: Dict[str, List[float]], prefix: Path) -> None:
     if summary_df.empty:
         return
     top_aspects = summary_df.head(10)
@@ -545,7 +547,95 @@ def create_visualizations(summary_df: pd.DataFrame, aspect_scores: Dict[str, Lis
         plt.close()
 
 
-def temporal_analysis(results: Iterable[ReviewResult], prefix: str, recent_start_year: int = 2022) -> None:
+def create_smoothed_temporal_visualizations(
+    recent_df: pd.DataFrame, prefix: Path, recent_start_year: int, window: int = 3
+) -> None:
+    if recent_df.empty:
+        return
+    colors = {
+        "Facilities": "#e74c3c",
+        "Price/Fees": "#2ecc71",
+        "Policies/Contract": "#f39c12",
+        "Equipment": "#3498db",
+        "Crowdedness": "#9b59b6",
+        "Staff/Service": "#1abc9c",
+        "Cleanliness": "#e67e22",
+        "Location/Accessibility": "#34495e",
+        "Overall Experience": "#95a5a6",
+        "Classes/Programs": "#8e44ad",
+    }
+    temp = recent_df.copy()
+    temp["Period"] = pd.PeriodIndex(temp["Period"], freq="M")
+    temp = temp.sort_values(["Period", "Aspect"])
+    pivot = temp.pivot(index="Period", columns="Aspect", values="Avg_Sentiment").sort_index()
+    pivot_index = pivot.index.to_timestamp()
+    smoothed = pivot.rolling(window=window, min_periods=1).mean()
+    smoothed.index = pivot_index
+    top_aspects = (
+        recent_df.groupby("Aspect")["Mention_Count"].sum().sort_values(ascending=False).head(5).index
+    )
+
+    fig, ax = plt.subplots(figsize=(14, 8))
+    for aspect in top_aspects:
+        if aspect not in smoothed.columns:
+            continue
+        series = smoothed[aspect].dropna()
+        if series.empty:
+            continue
+        ax.plot(
+            series.index,
+            series.values,
+            label=f"{aspect} ({window}-month avg)",
+            linewidth=2.5,
+            color=colors.get(aspect, "#555555"),
+        )
+    ax.axhline(y=0, color="black", linewidth=1, alpha=0.4)
+    ax.axhline(y=0.05, color="green", linestyle="--", linewidth=0.8, alpha=0.3)
+    ax.axhline(y=-0.05, color="red", linestyle="--", linewidth=0.8, alpha=0.3)
+    ax.set_xlabel("Time Period (Month)", fontsize=12, fontweight="bold")
+    ax.set_ylabel("Average Sentiment", fontsize=12, fontweight="bold")
+    ax.set_title(f"{window}-Month Rolling Sentiment Trends ({recent_start_year}+)", fontsize=14, fontweight="bold", pad=20)
+    ax.legend(loc="best", fontsize=10)
+    ax.grid(alpha=0.3, linestyle="--")
+    ax.xaxis.set_major_locator(mdates.MonthLocator(interval=3))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter("%Y-%m"))
+    plt.xticks(rotation=45, ha="right")
+    plt.tight_layout()
+    plt.savefig(f"{prefix}_temporal_recent_smoothed.png", dpi=300, bbox_inches="tight")
+    plt.close()
+
+    smoothed_diff = smoothed.diff()
+    fig, ax = plt.subplots(figsize=(14, 8))
+    for aspect in top_aspects:
+        if aspect not in smoothed_diff.columns:
+            continue
+        series = smoothed_diff[aspect].dropna()
+        if series.empty:
+            continue
+        ax.plot(
+            series.index,
+            series.values,
+            label=f"{aspect} ({window}-month avg)",
+            linewidth=2.0,
+            color=colors.get(aspect, "#555555"),
+        )
+    ax.axhline(y=0, color="black", linewidth=1, alpha=0.4)
+    ax.set_xlabel("Time Period (Month)", fontsize=12, fontweight="bold")
+    ax.set_ylabel("Rolling MoM Sentiment Change", fontsize=12, fontweight="bold")
+    ax.set_title(
+        f"{window}-Month Rolling Sentiment Change ({recent_start_year}+)", fontsize=14, fontweight="bold", pad=20
+    )
+    ax.legend(loc="best", fontsize=10)
+    ax.grid(alpha=0.3, linestyle="--")
+    ax.xaxis.set_major_locator(mdates.MonthLocator(interval=3))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter("%Y-%m"))
+    plt.xticks(rotation=45, ha="right")
+    plt.tight_layout()
+    plt.savefig(f"{prefix}_temporal_recent_smoothed_change.png", dpi=300, bbox_inches="tight")
+    plt.close()
+
+
+def temporal_analysis(results: Iterable[ReviewResult], prefix: Path, recent_start_year: int = 2022) -> None:
     temporal_rows = []
     for res in results:
         date_val = pd.to_datetime(res.date_posted, errors="coerce")
@@ -652,6 +742,8 @@ def temporal_analysis(results: Iterable[ReviewResult], prefix: str, recent_start
     plt.savefig(f"{prefix}_temporal_recent_change.png", dpi=300, bbox_inches="tight")
     plt.close()
 
+    create_smoothed_temporal_visualizations(recent_df, prefix, recent_start_year)
+
 
 def save_outputs(
     detailed_df: pd.DataFrame,
@@ -669,10 +761,45 @@ def save_outputs(
         location_df.to_csv(base_path / f"{prefix}_by_location.csv", index=False, encoding="utf-8")
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Aspect-Based Sentiment Analysis for Google reviews.")
+    parser.add_argument(
+        "--input",
+        type=Path,
+        default=Path("Google-Reviews/ABSA/google_reviews_all_outlets.csv"),
+        help="Path to aggregated reviews CSV.",
+    )
+    parser.add_argument(
+        "--output-dir",
+        type=Path,
+        default=Path("Google-Reviews/ABSA"),
+        help="Directory to store generated outputs.",
+    )
+    parser.add_argument(
+        "--output-prefix",
+        type=str,
+        default="google_af_absa",
+        help="Prefix to use for output filenames.",
+    )
+    parser.add_argument(
+        "--recent-start-year",
+        type=int,
+        default=2022,
+        help="Starting year for recent temporal analysis.",
+    )
+    parser.add_argument(
+        "--skip-temporal",
+        action="store_true",
+        help="Skip generating temporal analysis outputs.",
+    )
+    return parser.parse_args()
+
+
 def main() -> None:
-    input_path = Path("Google-Reviews/ABSA/google_reviews_all_outlets.csv")
-    output_dir = Path("Google-Reviews/ABSA")
-    output_prefix = "google_af_absa"
+    args = parse_args()
+    input_path = args.input
+    output_dir = args.output_dir
+    output_prefix = args.output_prefix
 
     if not input_path.exists():
         raise FileNotFoundError(
@@ -700,10 +827,12 @@ def main() -> None:
         for aspect in summary_df["Aspect"].tolist()
     }
 
-    create_visualizations(summary_df, aspect_scores, str(output_dir / output_prefix))
-    temporal_analysis(results, str(output_dir / output_prefix))
+    prefix_path = output_dir / output_prefix
+    create_visualizations(summary_df, aspect_scores, prefix_path)
+    if not args.skip_temporal:
+        temporal_analysis(results, prefix_path, recent_start_year=args.recent_start_year)
 
-    print("\nAnalysis complete! Generated files saved in Google-Reviews/ABSA")
+    print(f"\nAnalysis complete! Generated files saved in {output_dir}")
 
 
 if __name__ == "__main__":

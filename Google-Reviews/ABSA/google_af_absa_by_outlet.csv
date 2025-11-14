@@ -1,11 +1,11 @@
 Outlet,Aspect,Mention_Count,Avg_Sentiment,Positive_Pct,Negative_Pct
-Anytime Fitness City Square Mall,Equipment,197,0.5434029399323181,87.31,3.55
-Anytime Fitness City Square Mall,Facilities,215,0.5203115503875969,85.58,1.86
+Anytime Fitness City Square Mall,Equipment,198,0.5444998947811448,87.37,3.54
+Anytime Fitness City Square Mall,Facilities,216,0.5179027006172839,85.19,1.85
 Anytime Fitness City Square Mall,Staff/Service,385,0.6966720454545455,97.92,0.78
-Anytime Fitness City Square Mall,Location/Accessibility,62,0.4694997311827957,75.81,3.23
-Anytime Fitness City Square Mall,Cleanliness,191,0.6071649389179755,94.76,4.19
+Anytime Fitness City Square Mall,Location/Accessibility,63,0.4741203703703704,76.19,3.17
+Anytime Fitness City Square Mall,Cleanliness,193,0.6071849913644214,94.82,4.15
 Anytime Fitness City Square Mall,Price/Fees,27,0.4063444444444444,77.78,0.0
-Anytime Fitness City Square Mall,Overall Experience,242,0.5815259986225895,95.87,2.89
+Anytime Fitness City Square Mall,Overall Experience,243,0.5818884430727023,95.88,2.88
 Anytime Fitness City Square Mall,Crowdedness,60,0.23693749999999997,56.67,18.33
 Anytime Fitness City Square Mall,Classes/Programs,7,0.51035,71.43,0.0
 Anytime Fitness City Square Mall,Policies/Contract,28,0.4437017857142857,78.57,7.14
@@ -19,36 +19,6 @@ Anytime Fitness Sembawang,Cleanliness,51,0.6695235294117646,98.04,0.0
 Anytime Fitness Sembawang,Classes/Programs,21,0.5919642857142856,95.24,4.76
 Anytime Fitness Sembawang,Facilities,90,0.5795133333333333,88.89,0.0
 Anytime Fitness Sembawang,Price/Fees,13,0.377967032967033,69.23,7.69
-Anytime Fitness Eastpoint Mall,Classes/Programs,4,0.7173625000000001,100.0,0.0
-Anytime Fitness Eastpoint Mall,Overall Experience,18,0.6474305555555555,94.44,0.0
-Anytime Fitness Eastpoint Mall,Staff/Service,30,0.46049972222222224,76.67,13.33
-Anytime Fitness Eastpoint Mall,Equipment,19,0.27533605263157895,63.16,10.53
-Anytime Fitness Eastpoint Mall,Facilities,21,0.3834646825396825,85.71,0.0
-Anytime Fitness Eastpoint Mall,Crowdedness,5,0.12715000000000004,40.0,40.0
-Anytime Fitness Eastpoint Mall,Price/Fees,10,0.08052666666666668,40.0,50.0
-Anytime Fitness Eastpoint Mall,Policies/Contract,8,0.16325625,50.0,25.0
-Anytime Fitness Eastpoint Mall,Cleanliness,14,0.440325,85.71,7.14
-Anytime Fitness Eastpoint Mall,Location/Accessibility,6,0.6581333333333333,100.0,0.0
-Anytime Fitness Bukit Panjang,Staff/Service,79,0.614748417721519,89.87,2.53
-Anytime Fitness Bukit Panjang,Equipment,31,0.44811290322580644,77.42,9.68
-Anytime Fitness Bukit Panjang,Location/Accessibility,21,0.3536142857142857,61.9,19.05
-Anytime Fitness Bukit Panjang,Overall Experience,71,0.5393934272300467,97.18,1.41
-Anytime Fitness Bukit Panjang,Cleanliness,30,0.5043183333333333,86.67,10.0
-Anytime Fitness Bukit Panjang,Facilities,29,0.42910718390804603,79.31,6.9
-Anytime Fitness Bukit Panjang,Crowdedness,19,0.09215000000000001,26.32,21.05
-Anytime Fitness Bukit Panjang,Price/Fees,12,0.36463749999999995,75.0,16.67
-Anytime Fitness Bukit Panjang,Classes/Programs,6,0.48386666666666667,83.33,0.0
-Anytime Fitness Bukit Panjang,Policies/Contract,2,-0.36335,0.0,100.0
-Anytime Fitness Viio@Balestier,Staff/Service,52,0.6263389423076924,92.31,7.69
-Anytime Fitness Viio@Balestier,Equipment,24,0.40733715277777777,70.83,12.5
-Anytime Fitness Viio@Balestier,Facilities,24,0.31390089285714284,66.67,8.33
-Anytime Fitness Viio@Balestier,Crowdedness,8,0.050095833333333326,37.5,25.0
-Anytime Fitness Viio@Balestier,Overall Experience,45,0.5711607407407406,95.56,4.44
-Anytime Fitness Viio@Balestier,Cleanliness,29,0.5407931034482759,89.66,10.34
-Anytime Fitness Viio@Balestier,Classes/Programs,5,0.32308333333333333,80.0,20.0
-Anytime Fitness Viio@Balestier,Location/Accessibility,6,0.13724999999999998,50.0,16.67
-Anytime Fitness Viio@Balestier,Policies/Contract,5,0.43094,80.0,0.0
-Anytime Fitness Viio@Balestier,Price/Fees,1,0.0,0.0,0.0
 Anytime Fitness Havelock Outram,Staff/Service,225,0.6886779555555556,96.89,0.44
 Anytime Fitness Havelock Outram,Facilities,135,0.5862113580246913,87.41,0.74
 Anytime Fitness Havelock Outram,Overall Experience,102,0.671077567693744,98.04,0.98
@@ -59,176 +29,66 @@ Anytime Fitness Havelock Outram,Crowdedness,41,0.3991256097560975,73.17,2.44
 Anytime Fitness Havelock Outram,Price/Fees,18,0.49140111111111107,77.78,0.0
 Anytime Fitness Havelock Outram,Policies/Contract,20,0.645824,95.0,0.0
 Anytime Fitness Havelock Outram,Classes/Programs,5,0.5801000000000001,80.0,0.0
-Anytime Fitness Woods Square,Staff/Service,173,0.5859383044315992,91.91,6.36
-Anytime Fitness Woods Square,Cleanliness,48,0.45508750000000003,75.0,12.5
-Anytime Fitness Woods Square,Equipment,58,0.35314166666666674,67.24,13.79
-Anytime Fitness Woods Square,Crowdedness,28,0.11664464285714286,32.14,14.29
-Anytime Fitness Woods Square,Overall Experience,92,0.5509440217391304,86.96,8.7
-Anytime Fitness Woods Square,Facilities,64,0.46224088541666664,79.69,6.25
-Anytime Fitness Woods Square,Price/Fees,27,0.2823401234567901,62.96,18.52
-Anytime Fitness Woods Square,Classes/Programs,17,0.4048352941176471,76.47,5.88
-Anytime Fitness Woods Square,Location/Accessibility,46,0.42507282608695646,71.74,6.52
-Anytime Fitness Woods Square,Policies/Contract,18,-0.0023972222222222203,38.89,27.78
-Anytime Fitness SKH Campus,Overall Experience,148,0.6008846283783784,97.3,1.35
-Anytime Fitness SKH Campus,Staff/Service,163,0.6761253680981595,96.93,1.84
-Anytime Fitness SKH Campus,Price/Fees,14,0.34971071428571426,71.43,0.0
-Anytime Fitness SKH Campus,Policies/Contract,6,0.3825111111111111,83.33,16.67
-Anytime Fitness SKH Campus,Facilities,62,0.48253333333333326,82.26,6.45
-Anytime Fitness SKH Campus,Location/Accessibility,28,0.502277380952381,89.29,7.14
-Anytime Fitness SKH Campus,Equipment,62,0.4735314516129032,83.87,3.23
-Anytime Fitness SKH Campus,Crowdedness,27,0.33695740740740737,70.37,3.7
-Anytime Fitness SKH Campus,Cleanliness,54,0.6704472222222223,96.3,0.0
-Anytime Fitness SKH Campus,Classes/Programs,19,0.4509675438596491,84.21,5.26
 Anytime Fitness Sunway Big Box,Facilities,83,0.5478463855421687,83.13,1.2
 Anytime Fitness Sunway Big Box,Policies/Contract,14,0.6043142857142857,85.71,7.14
-Anytime Fitness Sunway Big Box,Classes/Programs,63,0.4932806878306878,80.95,3.17
-Anytime Fitness Sunway Big Box,Overall Experience,126,0.5886760582010584,93.65,1.59
-Anytime Fitness Sunway Big Box,Staff/Service,177,0.6330066384180791,96.05,1.13
-Anytime Fitness Sunway Big Box,Equipment,51,0.4924393790849673,82.35,7.84
+Anytime Fitness Sunway Big Box,Classes/Programs,64,0.4953372395833333,81.25,3.12
+Anytime Fitness Sunway Big Box,Overall Experience,127,0.5889612860892389,93.7,1.57
+Anytime Fitness Sunway Big Box,Staff/Service,178,0.6312057584269664,96.07,1.12
+Anytime Fitness Sunway Big Box,Equipment,52,0.49521746794871796,82.69,7.69
 Anytime Fitness Sunway Big Box,Cleanliness,67,0.6516686567164179,97.01,1.49
 Anytime Fitness Sunway Big Box,Location/Accessibility,31,0.4564473118279569,74.19,6.45
 Anytime Fitness Sunway Big Box,Crowdedness,16,0.472759375,68.75,0.0
-Anytime Fitness Sunway Big Box,Price/Fees,8,0.5175875000000001,87.5,0.0
-Anytime Fitness Yew Tee Community Club,Staff/Service,66,0.6072804292929292,87.88,6.06
-Anytime Fitness Yew Tee Community Club,Equipment,21,0.2799944444444445,57.14,9.52
-Anytime Fitness Yew Tee Community Club,Facilities,19,0.5033026315789474,73.68,10.53
-Anytime Fitness Yew Tee Community Club,Overall Experience,54,0.6501027777777779,92.59,5.56
-Anytime Fitness Yew Tee Community Club,Cleanliness,11,0.5726136363636364,90.91,9.09
-Anytime Fitness Yew Tee Community Club,Location/Accessibility,14,0.3158458333333333,64.29,0.0
-Anytime Fitness Yew Tee Community Club,Classes/Programs,4,0.5605249999999999,75.0,0.0
-Anytime Fitness Yew Tee Community Club,Price/Fees,9,0.2893296296296296,66.67,11.11
-Anytime Fitness Yew Tee Community Club,Crowdedness,7,0.1819785714285714,28.57,0.0
-Anytime Fitness Yew Tee Community Club,Policies/Contract,4,0.4445125,100.0,0.0
-Anytime Fitness Kim Seng CC,Cleanliness,14,0.62135,100.0,0.0
-Anytime Fitness Kim Seng CC,Crowdedness,10,0.4401,80.0,0.0
-Anytime Fitness Kim Seng CC,Equipment,18,0.5397277777777778,88.89,0.0
-Anytime Fitness Kim Seng CC,Policies/Contract,3,0.161,66.67,33.33
-Anytime Fitness Kim Seng CC,Location/Accessibility,14,0.49462142857142855,71.43,0.0
-Anytime Fitness Kim Seng CC,Overall Experience,24,0.6943350694444445,100.0,0.0
-Anytime Fitness Kim Seng CC,Facilities,17,0.4903882352941177,94.12,0.0
-Anytime Fitness Kim Seng CC,Staff/Service,39,0.5913098290598291,89.74,5.13
-Anytime Fitness Kim Seng CC,Price/Fees,5,0.37304,80.0,20.0
-Anytime Fitness Kim Seng CC,Classes/Programs,15,0.5120722222222222,86.67,0.0
-Anytime Fitness Ang Mo Kio South,Staff/Service,276,0.6885626811594202,98.55,0.36
+Anytime Fitness Sunway Big Box,Price/Fees,9,0.46007777777777786,77.78,0.0
+Anytime Fitness Choa Chu Kang Centre,Staff/Service,61,0.35981633489461357,73.77,19.67
+Anytime Fitness Choa Chu Kang Centre,Equipment,33,0.17968419191919194,51.52,24.24
+Anytime Fitness Choa Chu Kang Centre,Facilities,38,0.37364078947368423,57.89,13.16
+Anytime Fitness Choa Chu Kang Centre,Price/Fees,17,0.27302598039215686,64.71,23.53
+Anytime Fitness Choa Chu Kang Centre,Policies/Contract,13,0.09338461538461537,38.46,23.08
+Anytime Fitness Choa Chu Kang Centre,Overall Experience,34,0.258375,61.76,35.29
+Anytime Fitness Choa Chu Kang Centre,Crowdedness,9,-0.07337777777777778,33.33,44.44
+Anytime Fitness Choa Chu Kang Centre,Cleanliness,16,0.5243104166666667,87.5,6.25
+Anytime Fitness Choa Chu Kang Centre,Location/Accessibility,15,0.4212966666666666,80.0,13.33
+Anytime Fitness Choa Chu Kang Centre,Classes/Programs,8,0.48769999999999997,75.0,0.0
+Anytime Fitness,Facilities,66,0.29766893939393935,57.58,10.61
+Anytime Fitness,Crowdedness,24,0.14557291666666666,41.67,12.5
+Anytime Fitness,Location/Accessibility,53,0.20538018867924526,45.28,11.32
+Anytime Fitness,Staff/Service,45,0.45144666666666666,82.22,13.33
+Anytime Fitness,Overall Experience,36,0.4709430555555556,80.56,11.11
+Anytime Fitness,Equipment,15,0.23730888888888887,60.0,6.67
+Anytime Fitness,Price/Fees,10,0.36071,50.0,0.0
+Anytime Fitness,Policies/Contract,8,0.19274999999999998,50.0,12.5
+Anytime Fitness,Classes/Programs,3,0.14049999999999999,33.33,0.0
+Anytime Fitness,Cleanliness,19,0.41476315789473683,73.68,15.79
+Anytime Fitness Jurong East Central,Staff/Service,94,0.38174368794326236,73.4,20.21
+Anytime Fitness Jurong East Central,Location/Accessibility,30,0.2905761111111111,53.33,6.67
+Anytime Fitness Jurong East Central,Overall Experience,61,0.33385560109289625,75.41,22.95
+Anytime Fitness Jurong East Central,Cleanliness,31,0.46298279569892464,80.65,16.13
+Anytime Fitness Jurong East Central,Crowdedness,15,0.1574888888888889,40.0,13.33
+Anytime Fitness Jurong East Central,Equipment,41,0.40525121951219506,75.61,14.63
+Anytime Fitness Jurong East Central,Facilities,52,0.3724131410256411,65.38,13.46
+Anytime Fitness Jurong East Central,Price/Fees,21,0.11955714285714288,42.86,28.57
+Anytime Fitness Jurong East Central,Classes/Programs,9,0.38951111111111114,77.78,11.11
+Anytime Fitness Jurong East Central,Policies/Contract,13,-0.08676,38.46,53.85
+Anytime Fitness Ang Mo Kio South,Staff/Service,277,0.6895440433212996,98.56,0.36
 Anytime Fitness Ang Mo Kio South,Facilities,90,0.5338666666666666,85.56,5.56
 Anytime Fitness Ang Mo Kio South,Overall Experience,156,0.5814393162393162,95.51,3.21
 Anytime Fitness Ang Mo Kio South,Cleanliness,111,0.6260333333333333,95.5,3.6
 Anytime Fitness Ang Mo Kio South,Equipment,78,0.5124128205128204,84.62,2.56
-Anytime Fitness Ang Mo Kio South,Location/Accessibility,36,0.43373611111111104,77.78,2.78
+Anytime Fitness Ang Mo Kio South,Location/Accessibility,37,0.44797027027027025,78.38,2.7
 Anytime Fitness Ang Mo Kio South,Price/Fees,23,0.5032913043478261,73.91,0.0
 Anytime Fitness Ang Mo Kio South,Classes/Programs,8,0.5487,75.0,0.0
 Anytime Fitness Ang Mo Kio South,Crowdedness,18,0.3762972222222222,77.78,5.56
 Anytime Fitness Ang Mo Kio South,Policies/Contract,14,0.49589999999999995,78.57,0.0
-Anytime Fitness Woodgrove,Crowdedness,9,0.09437222222222222,33.33,11.11
-Anytime Fitness Woodgrove,Staff/Service,48,0.5895208333333334,89.58,4.17
-Anytime Fitness Woodgrove,Location/Accessibility,11,0.36784090909090905,81.82,9.09
-Anytime Fitness Woodgrove,Equipment,25,0.31419933333333333,76.0,8.0
-Anytime Fitness Woodgrove,Policies/Contract,5,0.19519999999999998,40.0,40.0
-Anytime Fitness Woodgrove,Classes/Programs,10,0.27768333333333334,70.0,0.0
-Anytime Fitness Woodgrove,Overall Experience,28,0.5787925595238095,96.43,3.57
-Anytime Fitness Woodgrove,Cleanliness,17,0.5973176470588236,100.0,0.0
-Anytime Fitness Woodgrove,Facilities,22,0.39258386363636366,77.27,9.09
-Anytime Fitness Woodgrove,Price/Fees,4,0.3649583333333333,75.0,0.0
-Anytime Fitness Katong,Overall Experience,98,0.5822602040816327,98.98,0.0
-Anytime Fitness Katong,Staff/Service,109,0.6783200305810398,95.41,0.92
-Anytime Fitness Katong,Cleanliness,75,0.6486962222222222,100.0,0.0
-Anytime Fitness Katong,Policies/Contract,12,0.4767666666666666,83.33,0.0
-Anytime Fitness Katong,Crowdedness,33,0.3414424242424242,66.67,6.06
-Anytime Fitness Katong,Equipment,63,0.44439502645502643,80.95,3.17
-Anytime Fitness Katong,Location/Accessibility,35,0.5369714285714285,85.71,2.86
-Anytime Fitness Katong,Facilities,76,0.5344337719298246,88.16,0.0
-Anytime Fitness Katong,Price/Fees,15,0.35681,73.33,13.33
-Anytime Fitness Katong,Classes/Programs,8,0.6090125,87.5,0.0
-Anytime Fitness Bugis,Staff/Service,394,0.6764683798646363,94.67,2.54
-Anytime Fitness Bugis,Facilities,183,0.5204329690346083,84.15,3.28
-Anytime Fitness Bugis,Overall Experience,202,0.5839879537953795,90.59,4.46
-Anytime Fitness Bugis,Equipment,138,0.5653598429951692,89.13,2.17
-Anytime Fitness Bugis,Policies/Contract,24,0.3688208333333333,70.83,12.5
-Anytime Fitness Bugis,Crowdedness,48,0.308046875,64.58,8.33
-Anytime Fitness Bugis,Location/Accessibility,58,0.5151824712643678,84.48,0.0
-Anytime Fitness Bugis,Cleanliness,182,0.6049290750915751,93.96,3.3
-Anytime Fitness Bugis,Classes/Programs,19,0.5243368421052633,78.95,0.0
-Anytime Fitness Bugis,Price/Fees,35,0.30360047619047625,57.14,11.43
-Anytime Fitness Bukit Batok (Le Quest),Staff/Service,86,0.7169972868217053,98.84,0.0
-Anytime Fitness Bukit Batok (Le Quest),Equipment,35,0.5110557142857144,88.57,2.86
-Anytime Fitness Bukit Batok (Le Quest),Overall Experience,51,0.6002236928104576,96.08,0.0
-Anytime Fitness Bukit Batok (Le Quest),Cleanliness,39,0.6423076923076925,97.44,0.0
-Anytime Fitness Bukit Batok (Le Quest),Facilities,44,0.4935198863636364,81.82,11.36
-Anytime Fitness Bukit Batok (Le Quest),Policies/Contract,11,0.6235454545454545,100.0,0.0
-Anytime Fitness Bukit Batok (Le Quest),Location/Accessibility,18,0.41833333333333333,72.22,5.56
-Anytime Fitness Bukit Batok (Le Quest),Price/Fees,7,0.7001999999999999,100.0,0.0
-Anytime Fitness Bukit Batok (Le Quest),Crowdedness,8,0.26526875,75.0,12.5
-Anytime Fitness Bukit Batok (Le Quest),Classes/Programs,2,0.6791,100.0,0.0
-Anytime Fitness Ang Mo Kio,Staff/Service,207,0.6306072061191625,95.65,2.9
-Anytime Fitness Ang Mo Kio,Facilities,56,0.4766303571428572,83.93,7.14
-Anytime Fitness Ang Mo Kio,Overall Experience,128,0.49430904947916665,89.84,5.47
-Anytime Fitness Ang Mo Kio,Price/Fees,28,0.4195678571428572,78.57,7.14
-Anytime Fitness Ang Mo Kio,Cleanliness,51,0.4637544117647059,84.31,9.8
-Anytime Fitness Ang Mo Kio,Equipment,58,0.3968400862068966,75.86,5.17
-Anytime Fitness Ang Mo Kio,Policies/Contract,18,0.2915111111111111,66.67,16.67
-Anytime Fitness Ang Mo Kio,Location/Accessibility,37,0.2877013513513514,56.76,13.51
-Anytime Fitness Ang Mo Kio,Crowdedness,16,0.20311666666666667,37.5,6.25
-Anytime Fitness Ang Mo Kio,Classes/Programs,2,0.918,100.0,0.0
-Anytime Fitness Toa Payoh,Overall Experience,150,0.7391230777777779,98.67,1.33
-Anytime Fitness Toa Payoh,Staff/Service,148,0.5915359797297297,92.57,3.38
-Anytime Fitness Toa Payoh,Equipment,39,0.4609602564102565,79.49,2.56
-Anytime Fitness Toa Payoh,Facilities,54,0.48034351851851853,74.07,3.7
-Anytime Fitness Toa Payoh,Cleanliness,32,0.5625765625,90.62,6.25
-Anytime Fitness Toa Payoh,Crowdedness,23,0.26137391304347823,43.48,8.7
-Anytime Fitness Toa Payoh,Location/Accessibility,27,0.39930061728395067,66.67,11.11
-Anytime Fitness Toa Payoh,Classes/Programs,7,0.27314571428571427,71.43,0.0
-Anytime Fitness Toa Payoh,Price/Fees,30,0.41987500000000005,76.67,10.0
-Anytime Fitness Toa Payoh,Policies/Contract,9,0.638438888888889,88.89,0.0
-Anytime Fitness Alexis,Cleanliness,13,0.47710769230769223,76.92,0.0
-Anytime Fitness Alexis,Staff/Service,27,0.4457111111111111,81.48,18.52
-Anytime Fitness Alexis,Equipment,19,0.3585226315789473,68.42,5.26
-Anytime Fitness Alexis,Crowdedness,9,0.15397222222222226,55.56,11.11
-Anytime Fitness Alexis,Facilities,12,0.34736527777777776,75.0,8.33
-Anytime Fitness Alexis,Location/Accessibility,4,0.1691625,75.0,0.0
-Anytime Fitness Alexis,Classes/Programs,2,0.71325,100.0,0.0
-Anytime Fitness Alexis,Overall Experience,16,0.5034072916666665,81.25,12.5
-Anytime Fitness Alexis,Policies/Contract,2,0.5606,100.0,0.0
-Anytime Fitness Alexis,Price/Fees,1,0.0,0.0,0.0
 Anytime Fitness Pasir Panjang,Overall Experience,202,0.5704757425742575,98.51,0.99
-Anytime Fitness Pasir Panjang,Staff/Service,246,0.6487097696476964,96.34,1.63
-Anytime Fitness Pasir Panjang,Equipment,129,0.4345572812846069,71.32,1.55
+Anytime Fitness Pasir Panjang,Staff/Service,247,0.6490890823211878,96.36,1.62
+Anytime Fitness Pasir Panjang,Equipment,130,0.43121453296703294,70.77,1.54
 Anytime Fitness Pasir Panjang,Facilities,221,0.4372530316742081,74.21,1.81
 Anytime Fitness Pasir Panjang,Classes/Programs,30,0.46413166666666666,76.67,3.33
-Anytime Fitness Pasir Panjang,Crowdedness,46,0.260320652173913,54.35,8.7
+Anytime Fitness Pasir Panjang,Crowdedness,47,0.25478191489361696,53.19,8.51
 Anytime Fitness Pasir Panjang,Location/Accessibility,61,0.3205008196721312,62.3,1.64
-Anytime Fitness Pasir Panjang,Cleanliness,115,0.577092811594203,93.91,2.61
+Anytime Fitness Pasir Panjang,Cleanliness,116,0.5787127011494253,93.97,2.59
 Anytime Fitness Pasir Panjang,Price/Fees,18,0.09712129629629629,44.44,22.22
 Anytime Fitness Pasir Panjang,Policies/Contract,16,0.41513125,87.5,12.5
-Anytime Fitness Sengkang Rivervale,Equipment,49,0.38518843537414965,71.43,8.16
-Anytime Fitness Sengkang Rivervale,Crowdedness,21,0.1249595238095238,38.1,9.52
-Anytime Fitness Sengkang Rivervale,Location/Accessibility,33,0.37794949494949487,69.7,9.09
-Anytime Fitness Sengkang Rivervale,Overall Experience,169,0.5765865384615385,97.04,0.0
-Anytime Fitness Sengkang Rivervale,Staff/Service,193,0.6280252751048606,93.78,2.07
-Anytime Fitness Sengkang Rivervale,Facilities,57,0.5536470175438597,82.46,7.02
-Anytime Fitness Sengkang Rivervale,Classes/Programs,21,0.41058888888888895,76.19,14.29
-Anytime Fitness Sengkang Rivervale,Cleanliness,48,0.640796875,93.75,4.17
-Anytime Fitness Sengkang Rivervale,Price/Fees,29,0.3634057471264367,65.52,6.9
-Anytime Fitness Sengkang Rivervale,Policies/Contract,10,0.4029183333333333,80.0,20.0
-Anytime Fitness Punggol Oasis,Overall Experience,221,0.5615055052790346,93.67,4.07
-Anytime Fitness Punggol Oasis,Staff/Service,222,0.6531469809094808,95.05,3.6
-Anytime Fitness Punggol Oasis,Equipment,62,0.4812816397849463,80.65,11.29
-Anytime Fitness Punggol Oasis,Facilities,86,0.5827693798449611,91.86,1.16
-Anytime Fitness Punggol Oasis,Location/Accessibility,48,0.5057822916666667,83.33,2.08
-Anytime Fitness Punggol Oasis,Cleanliness,57,0.6072385964912281,94.74,3.51
-Anytime Fitness Punggol Oasis,Classes/Programs,29,0.5420775862068965,79.31,3.45
-Anytime Fitness Punggol Oasis,Price/Fees,14,0.2976803571428572,78.57,21.43
-Anytime Fitness Punggol Oasis,Crowdedness,21,0.2747476190476191,57.14,9.52
-Anytime Fitness Punggol Oasis,Policies/Contract,17,0.38602941176470584,76.47,23.53
-Anytime Fitness Tampines,Cleanliness,63,0.6083904761904761,98.41,0.0
-Anytime Fitness Tampines,Location/Accessibility,23,0.4520804347826088,78.26,4.35
-Anytime Fitness Tampines,Overall Experience,109,0.5292887308868501,96.33,1.83
-Anytime Fitness Tampines,Equipment,46,0.41004673913043477,73.91,8.7
-Anytime Fitness Tampines,Facilities,77,0.4812896103896103,88.31,0.0
-Anytime Fitness Tampines,Staff/Service,208,0.611766907051282,94.23,2.4
-Anytime Fitness Tampines,Crowdedness,13,0.29712692307692307,69.23,15.38
-Anytime Fitness Tampines,Price/Fees,27,0.30895370370370373,70.37,11.11
-Anytime Fitness Tampines,Classes/Programs,7,0.3781738095238095,71.43,0.0
-Anytime Fitness Tampines,Policies/Contract,9,0.21250925925925923,66.67,11.11
 Anytime Fitness Bedok 85,Staff/Service,532,0.6545511121553885,96.62,0.38
 Anytime Fitness Bedok 85,Equipment,81,0.5620987654320988,87.65,0.0
 Anytime Fitness Bedok 85,Cleanliness,143,0.6328886946386947,96.5,2.1
@@ -239,46 +99,6 @@ Anytime Fitness Bedok 85,Policies/Contract,34,0.5748941176470589,88.24,0.0
 Anytime Fitness Bedok 85,Overall Experience,160,0.659605625,98.75,0.0
 Anytime Fitness Bedok 85,Crowdedness,18,0.2386018518518519,50.0,0.0
 Anytime Fitness Bedok 85,Classes/Programs,10,0.37457999999999997,80.0,0.0
-Anytime Fitness Siglap CC,Staff/Service,62,0.6494185483870967,91.94,3.23
-Anytime Fitness Siglap CC,Equipment,20,0.4122578571428571,75.0,10.0
-Anytime Fitness Siglap CC,Facilities,17,0.5185833333333333,82.35,0.0
-Anytime Fitness Siglap CC,Location/Accessibility,12,0.49717083333333334,66.67,0.0
-Anytime Fitness Siglap CC,Cleanliness,19,0.6748342105263158,100.0,0.0
-Anytime Fitness Siglap CC,Price/Fees,3,0.18176666666666666,100.0,0.0
-Anytime Fitness Siglap CC,Overall Experience,32,0.5878208333333333,90.62,3.12
-Anytime Fitness Siglap CC,Classes/Programs,3,0.7375999999999999,100.0,0.0
-Anytime Fitness Siglap CC,Policies/Contract,2,0.5656,100.0,0.0
-Anytime Fitness Siglap CC,Crowdedness,3,0.5403,66.67,0.0
-Anytime Fitness Choa Chu Kang,Staff/Service,54,0.4210802469135801,81.48,14.81
-Anytime Fitness Choa Chu Kang,Cleanliness,16,0.475271875,81.25,12.5
-Anytime Fitness Choa Chu Kang,Equipment,23,0.3163717391304347,56.52,8.7
-Anytime Fitness Choa Chu Kang,Facilities,22,0.3387704545454545,68.18,18.18
-Anytime Fitness Choa Chu Kang,Policies/Contract,8,0.228175,62.5,25.0
-Anytime Fitness Choa Chu Kang,Overall Experience,36,0.43043194444444444,80.56,16.67
-Anytime Fitness Choa Chu Kang,Classes/Programs,2,0.0,0.0,0.0
-Anytime Fitness Choa Chu Kang,Location/Accessibility,7,0.38590714285714284,71.43,14.29
-Anytime Fitness Choa Chu Kang,Price/Fees,9,0.0048388888888888865,33.33,33.33
-Anytime Fitness Choa Chu Kang,Crowdedness,8,0.2520875,62.5,25.0
-Anytime Fitness Tampines Central,Overall Experience,18,0.6330856481481482,94.44,0.0
-Anytime Fitness Tampines Central,Staff/Service,31,0.6381844086021506,93.55,3.23
-Anytime Fitness Tampines Central,Equipment,14,0.3531619047619047,71.43,14.29
-Anytime Fitness Tampines Central,Location/Accessibility,8,0.40285,62.5,12.5
-Anytime Fitness Tampines Central,Facilities,14,0.41014999999999996,71.43,7.14
-Anytime Fitness Tampines Central,Cleanliness,14,0.5835071428571428,85.71,7.14
-Anytime Fitness Tampines Central,Crowdedness,4,0.21577499999999997,50.0,25.0
-Anytime Fitness Tampines Central,Price/Fees,1,-0.4215,0.0,100.0
-Anytime Fitness Tampines Central,Policies/Contract,3,0.36483333333333334,66.67,0.0
-Anytime Fitness Tampines Central,Classes/Programs,1,0.4404,100.0,0.0
-Anytime Fitness Keppel,Staff/Service,32,0.6042932291666666,87.5,12.5
-Anytime Fitness Keppel,Cleanliness,21,0.4448166666666667,76.19,9.52
-Anytime Fitness Keppel,Overall Experience,23,0.5559144927536233,82.61,0.0
-Anytime Fitness Keppel,Equipment,22,0.3370780303030303,63.64,4.55
-Anytime Fitness Keppel,Facilities,16,0.3950010416666666,62.5,6.25
-Anytime Fitness Keppel,Policies/Contract,6,0.2781857142857143,50.0,16.67
-Anytime Fitness Keppel,Location/Accessibility,5,0.17962,20.0,0.0
-Anytime Fitness Keppel,Crowdedness,9,0.12257222222222221,22.22,22.22
-Anytime Fitness Keppel,Price/Fees,5,0.07642800000000002,40.0,20.0
-Anytime Fitness Keppel,Classes/Programs,3,0.4999666666666666,100.0,0.0
 Anytime Fitness Upper Serangoon,Staff/Service,110,0.548935909090909,94.55,2.73
 Anytime Fitness Upper Serangoon,Facilities,55,0.50449,83.64,0.0
 Anytime Fitness Upper Serangoon,Price/Fees,5,0.38725,80.0,0.0
@@ -289,6 +109,26 @@ Anytime Fitness Upper Serangoon,Equipment,58,0.4860420258620689,82.76,1.72
 Anytime Fitness Upper Serangoon,Location/Accessibility,19,0.2885631578947368,57.89,0.0
 Anytime Fitness Upper Serangoon,Classes/Programs,11,0.4423545454545455,72.73,0.0
 Anytime Fitness Upper Serangoon,Policies/Contract,3,0.5418333333333333,100.0,0.0
+Anytime Fitness ACE The Place CC,Staff/Service,92,0.5702241847826087,89.13,6.52
+Anytime Fitness ACE The Place CC,Facilities,30,0.4770216666666666,83.33,3.33
+Anytime Fitness ACE The Place CC,Overall Experience,43,0.5631748062015504,90.7,6.98
+Anytime Fitness ACE The Place CC,Equipment,38,0.3555188596491228,65.79,10.53
+Anytime Fitness ACE The Place CC,Crowdedness,15,0.16628,53.33,20.0
+Anytime Fitness ACE The Place CC,Classes/Programs,13,0.24113397435897438,61.54,15.38
+Anytime Fitness ACE The Place CC,Cleanliness,17,0.3353161764705883,64.71,23.53
+Anytime Fitness ACE The Place CC,Price/Fees,15,0.06892000000000002,46.67,33.33
+Anytime Fitness ACE The Place CC,Location/Accessibility,20,0.3898725,75.0,5.0
+Anytime Fitness ACE The Place CC,Policies/Contract,10,-0.020575,40.0,60.0
+Anytime Fitness Bukit Timah,Staff/Service,31,0.48384193548387094,83.87,16.13
+Anytime Fitness Bukit Timah,Price/Fees,8,0.23020000000000002,75.0,25.0
+Anytime Fitness Bukit Timah,Location/Accessibility,12,0.44810833333333333,83.33,8.33
+Anytime Fitness Bukit Timah,Overall Experience,28,0.5690196428571428,89.29,7.14
+Anytime Fitness Bukit Timah,Equipment,22,0.22237590909090912,59.09,18.18
+Anytime Fitness Bukit Timah,Facilities,30,0.4394423333333333,83.33,0.0
+Anytime Fitness Bukit Timah,Crowdedness,15,0.09749666666666669,46.67,20.0
+Anytime Fitness Bukit Timah,Cleanliness,15,0.31939999999999996,73.33,20.0
+Anytime Fitness Bukit Timah,Classes/Programs,4,0.3728125,75.0,0.0
+Anytime Fitness Bukit Timah,Policies/Contract,7,0.14600000000000005,57.14,28.57
 Anytime Fitness Jurong Summit,Staff/Service,141,0.6485340425531916,93.62,3.55
 Anytime Fitness Jurong Summit,Cleanliness,74,0.5942231981981982,95.95,1.35
 Anytime Fitness Jurong Summit,Equipment,111,0.38589012012012014,73.87,7.21
@@ -309,54 +149,26 @@ Anytime Fitness Buona Vista,Staff/Service,333,0.6952578578578579,96.4,0.9
 Anytime Fitness Buona Vista,Cleanliness,125,0.6252233333333334,95.2,3.2
 Anytime Fitness Buona Vista,Policies/Contract,16,0.4751953125,87.5,6.25
 Anytime Fitness Buona Vista,Classes/Programs,19,0.4920473684210527,89.47,0.0
-Anytime Fitness Bukit Batok CSC,Staff/Service,67,0.41795639658848616,76.12,20.9
-Anytime Fitness Bukit Batok CSC,Facilities,37,0.47735000000000005,78.38,8.11
-Anytime Fitness Bukit Batok CSC,Overall Experience,33,0.6231722222222221,90.91,6.06
-Anytime Fitness Bukit Batok CSC,Cleanliness,30,0.5858116666666666,96.67,3.33
-Anytime Fitness Bukit Batok CSC,Equipment,35,0.3904104761904762,82.86,8.57
-Anytime Fitness Bukit Batok CSC,Crowdedness,15,0.28023666666666663,53.33,6.67
-Anytime Fitness Bukit Batok CSC,Policies/Contract,11,0.048530303030303014,54.55,45.45
-Anytime Fitness Bukit Batok CSC,Location/Accessibility,8,0.30325,62.5,25.0
-Anytime Fitness Bukit Batok CSC,Price/Fees,19,0.19851973684210522,57.89,26.32
-Anytime Fitness Bukit Batok CSC,Classes/Programs,3,0.42416666666666664,100.0,0.0
 Anytime Fitness MacPherson Mall,Equipment,44,0.4930310606060606,81.82,0.0
-Anytime Fitness MacPherson Mall,Facilities,41,0.5512971544715447,85.37,0.0
+Anytime Fitness MacPherson Mall,Facilities,42,0.5499305555555557,85.71,0.0
 Anytime Fitness MacPherson Mall,Overall Experience,54,0.6151824074074074,94.44,3.7
 Anytime Fitness MacPherson Mall,Classes/Programs,25,0.5112473333333334,84.0,0.0
-Anytime Fitness MacPherson Mall,Staff/Service,82,0.6878692073170732,97.56,1.22
+Anytime Fitness MacPherson Mall,Staff/Service,83,0.6855322289156627,97.59,1.2
 Anytime Fitness MacPherson Mall,Cleanliness,42,0.6724166666666667,100.0,0.0
 Anytime Fitness MacPherson Mall,Location/Accessibility,19,0.4411157894736842,68.42,15.79
-Anytime Fitness MacPherson Mall,Crowdedness,15,0.3952866666666667,60.0,6.67
+Anytime Fitness MacPherson Mall,Crowdedness,16,0.40145000000000003,62.5,6.25
 Anytime Fitness MacPherson Mall,Price/Fees,7,0.4806571428571429,71.43,0.0
 Anytime Fitness MacPherson Mall,Policies/Contract,8,0.3168,62.5,12.5
-Anytime Fitness Guillemard,Equipment,3,0.23145555555555555,66.67,0.0
-Anytime Fitness Guillemard,Facilities,6,0.4594416666666667,83.33,0.0
-Anytime Fitness Guillemard,Cleanliness,5,-0.16288,40.0,60.0
-Anytime Fitness Guillemard,Overall Experience,6,0.42449166666666666,83.33,16.67
-Anytime Fitness Guillemard,Crowdedness,3,-0.18076666666666666,0.0,33.33
-Anytime Fitness Guillemard,Staff/Service,7,0.1578714285714286,57.14,28.57
-Anytime Fitness Guillemard,Price/Fees,2,0.32830000000000004,50.0,50.0
-Anytime Fitness Guillemard,Location/Accessibility,2,0.5264,100.0,0.0
-Anytime Fitness Balestier,Overall Experience,12,0.42421250000000005,83.33,8.33
-Anytime Fitness Balestier,Staff/Service,21,0.525697619047619,85.71,14.29
-Anytime Fitness Balestier,Equipment,15,0.23911422222222226,73.33,13.33
-Anytime Fitness Balestier,Facilities,12,0.2860180555555556,66.67,16.67
-Anytime Fitness Balestier,Price/Fees,6,0.0008833333333333471,33.33,33.33
-Anytime Fitness Balestier,Cleanliness,7,0.2780142857142857,71.43,14.29
-Anytime Fitness Balestier,Crowdedness,8,0.13888125,37.5,12.5
-Anytime Fitness Balestier,Classes/Programs,6,0.4648833333333333,66.67,16.67
-Anytime Fitness Balestier,Location/Accessibility,3,0.7685333333333334,100.0,0.0
-Anytime Fitness Balestier,Policies/Contract,1,0.5106,100.0,0.0
-Anytime Fitness Junction 9 Yishun,Equipment,56,0.3106267857142857,58.93,10.71
-Anytime Fitness Junction 9 Yishun,Overall Experience,100,0.5058904333333333,84.0,9.0
-Anytime Fitness Junction 9 Yishun,Cleanliness,49,0.5081316326530613,83.67,12.24
-Anytime Fitness Junction 9 Yishun,Crowdedness,24,0.11109166666666669,41.67,12.5
-Anytime Fitness Junction 9 Yishun,Staff/Service,221,0.5979330898513251,90.95,6.79
-Anytime Fitness Junction 9 Yishun,Facilities,50,0.3958123333333334,72.0,16.0
-Anytime Fitness Junction 9 Yishun,Price/Fees,42,0.14750198412698412,45.24,28.57
-Anytime Fitness Junction 9 Yishun,Location/Accessibility,23,0.43791521739130423,73.91,8.7
-Anytime Fitness Junction 9 Yishun,Policies/Contract,24,0.07748458333333334,37.5,41.67
-Anytime Fitness Junction 9 Yishun,Classes/Programs,7,0.40952500000000003,71.43,0.0
+Anytime Fitness Tanjong Pagar,Equipment,74,0.318808963963964,70.27,14.86
+Anytime Fitness Tanjong Pagar,Facilities,62,0.41941989247311834,70.97,6.45
+Anytime Fitness Tanjong Pagar,Staff/Service,125,0.5650937866666667,83.2,10.4
+Anytime Fitness Tanjong Pagar,Cleanliness,54,0.5214064814814814,85.19,9.26
+Anytime Fitness Tanjong Pagar,Overall Experience,92,0.581975,91.3,7.61
+Anytime Fitness Tanjong Pagar,Policies/Contract,17,0.33669411764705887,70.59,11.76
+Anytime Fitness Tanjong Pagar,Location/Accessibility,44,0.3383064393939394,63.64,4.55
+Anytime Fitness Tanjong Pagar,Crowdedness,27,0.22491851851851852,48.15,18.52
+Anytime Fitness Tanjong Pagar,Classes/Programs,24,0.46091041666666666,83.33,8.33
+Anytime Fitness Tanjong Pagar,Price/Fees,19,0.31949210526315786,73.68,10.53
 Anytime Fitness D'Arena Jurong,Staff/Service,109,0.6593714067278289,95.41,0.92
 Anytime Fitness D'Arena Jurong,Equipment,47,0.533972340425532,85.11,0.0
 Anytime Fitness D'Arena Jurong,Facilities,71,0.5279143192488263,81.69,1.41
@@ -367,95 +179,56 @@ Anytime Fitness D'Arena Jurong,Crowdedness,9,0.1673111111111111,66.67,22.22
 Anytime Fitness D'Arena Jurong,Classes/Programs,9,0.41873888888888894,77.78,0.0
 Anytime Fitness D'Arena Jurong,Location/Accessibility,15,0.31690000000000007,66.67,6.67
 Anytime Fitness D'Arena Jurong,Policies/Contract,9,0.43009629629629625,66.67,11.11
-Anytime Fitness Changi,Staff/Service,62,0.6041841397849462,88.71,1.61
-Anytime Fitness Changi,Facilities,29,0.4735313218390804,89.66,0.0
-Anytime Fitness Changi,Overall Experience,42,0.6034013492063492,100.0,0.0
-Anytime Fitness Changi,Crowdedness,6,0.18916666666666668,50.0,16.67
-Anytime Fitness Changi,Cleanliness,27,0.5230061728395061,88.89,3.7
-Anytime Fitness Changi,Policies/Contract,6,0.5914666666666666,83.33,0.0
-Anytime Fitness Changi,Equipment,19,0.3839982456140351,73.68,0.0
-Anytime Fitness Changi,Price/Fees,3,0.6516000000000001,100.0,0.0
-Anytime Fitness Changi,Location/Accessibility,11,0.4111318181818182,63.64,0.0
-Anytime Fitness Changi,Classes/Programs,2,0.7182999999999999,100.0,0.0
-Anytime Fitness MacPherson,Facilities,11,0.18163636363636365,54.55,36.36
-Anytime Fitness MacPherson,Overall Experience,17,0.5354607843137255,88.24,11.76
-Anytime Fitness MacPherson,Staff/Service,24,0.50366875,79.17,20.83
-Anytime Fitness MacPherson,Equipment,15,0.37894666666666665,66.67,13.33
-Anytime Fitness MacPherson,Location/Accessibility,6,0.04096666666666667,16.67,16.67
-Anytime Fitness MacPherson,Price/Fees,6,-0.05509166666666667,16.67,50.0
-Anytime Fitness MacPherson,Crowdedness,10,0.21328500000000003,50.0,20.0
-Anytime Fitness MacPherson,Cleanliness,10,0.23148,60.0,30.0
-Anytime Fitness MacPherson,Policies/Contract,4,0.44782500000000003,75.0,25.0
-Anytime Fitness MacPherson,Classes/Programs,2,-0.046150000000000024,50.0,50.0
-Anytime Fitness Hougang Central,Staff/Service,77,0.6223744588744589,92.21,5.19
-Anytime Fitness Hougang Central,Overall Experience,65,0.6042570512820511,93.85,6.15
-Anytime Fitness Hougang Central,Cleanliness,30,0.4290166666666666,80.0,13.33
-Anytime Fitness Hougang Central,Facilities,29,0.3348448275862068,72.41,10.34
-Anytime Fitness Hougang Central,Location/Accessibility,25,0.39124200000000003,72.0,8.0
-Anytime Fitness Hougang Central,Equipment,33,0.42558888888888885,75.76,6.06
-Anytime Fitness Hougang Central,Crowdedness,12,0.205475,41.67,8.33
-Anytime Fitness Hougang Central,Classes/Programs,5,0.40234000000000003,80.0,0.0
-Anytime Fitness Hougang Central,Price/Fees,5,0.45408,80.0,20.0
-Anytime Fitness Hougang Central,Policies/Contract,4,-0.119175,0.0,25.0
-Anytime Fitness Chai Chee,Equipment,143,0.5249580419580419,82.52,2.1
+Anytime Fitness Admiralty,Staff/Service,66,0.6511409090909092,90.91,6.06
+Anytime Fitness Admiralty,Facilities,31,0.34936612903225805,70.97,12.9
+Anytime Fitness Admiralty,Location/Accessibility,20,0.3483075,70.0,5.0
+Anytime Fitness Admiralty,Overall Experience,36,0.47731898148148155,86.11,11.11
+Anytime Fitness Admiralty,Cleanliness,25,0.40106200000000003,84.0,16.0
+Anytime Fitness Admiralty,Equipment,29,0.20534655172413793,51.72,20.69
+Anytime Fitness Admiralty,Crowdedness,18,0.15518333333333334,38.89,5.56
+Anytime Fitness Admiralty,Price/Fees,17,0.24138676470588236,52.94,29.41
+Anytime Fitness Admiralty,Policies/Contract,11,0.3125386363636364,63.64,9.09
+Anytime Fitness Admiralty,Classes/Programs,1,0.6652,100.0,0.0
+Anytime Fitness Buangkok,Staff/Service,25,0.3076270666666666,64.0,28.0
+Anytime Fitness Buangkok,Equipment,18,0.4026453703703704,77.78,11.11
+Anytime Fitness Buangkok,Facilities,14,0.2637714285714286,64.29,14.29
+Anytime Fitness Buangkok,Price/Fees,7,-0.22163285714285716,28.57,71.43
+Anytime Fitness Buangkok,Policies/Contract,8,0.11719687500000002,62.5,25.0
+Anytime Fitness Buangkok,Location/Accessibility,5,-0.17416,20.0,60.0
+Anytime Fitness Buangkok,Classes/Programs,2,0.33525,50.0,0.0
+Anytime Fitness Buangkok,Overall Experience,19,0.20537807017543858,63.16,31.58
+Anytime Fitness Buangkok,Crowdedness,15,0.23492666666666667,60.0,20.0
+Anytime Fitness Buangkok,Cleanliness,10,0.22677,60.0,40.0
+Anytime Fitness Chai Chee,Equipment,144,0.5241381944444444,82.64,2.08
 Anytime Fitness Chai Chee,Price/Fees,19,0.37675,68.42,15.79
 Anytime Fitness Chai Chee,Policies/Contract,17,0.4471274509803922,64.71,0.0
 Anytime Fitness Chai Chee,Staff/Service,186,0.6572674283154122,96.24,1.61
-Anytime Fitness Chai Chee,Overall Experience,117,0.6246413247863247,96.58,1.71
-Anytime Fitness Chai Chee,Facilities,183,0.5387168695148203,85.79,1.64
-Anytime Fitness Chai Chee,Crowdedness,36,0.34158611111111103,63.89,2.78
+Anytime Fitness Chai Chee,Overall Experience,118,0.6247452118644067,96.61,1.69
+Anytime Fitness Chai Chee,Facilities,183,0.5371651390958768,85.25,1.64
+Anytime Fitness Chai Chee,Crowdedness,37,0.33235405405405405,62.16,2.7
 Anytime Fitness Chai Chee,Cleanliness,66,0.6225681818181819,92.42,3.03
-Anytime Fitness Chai Chee,Location/Accessibility,48,0.4606319444444445,77.08,4.17
+Anytime Fitness Chai Chee,Location/Accessibility,48,0.4634777777777778,77.08,2.08
 Anytime Fitness Chai Chee,Classes/Programs,8,0.2872625,62.5,25.0
-Anytime Fitness Lower Peirce,Staff/Service,44,0.6849515151515151,95.45,4.55
-Anytime Fitness Lower Peirce,Facilities,34,0.49451764705882345,76.47,8.82
-Anytime Fitness Lower Peirce,Overall Experience,26,0.659128846153846,100.0,0.0
-Anytime Fitness Lower Peirce,Cleanliness,42,0.6195511904761906,97.62,0.0
-Anytime Fitness Lower Peirce,Equipment,28,0.6129164285714286,96.43,0.0
-Anytime Fitness Lower Peirce,Location/Accessibility,18,0.29284444444444446,50.0,11.11
-Anytime Fitness Lower Peirce,Policies/Contract,4,0.7946,100.0,0.0
-Anytime Fitness Lower Peirce,Crowdedness,7,0.3022214285714286,71.43,14.29
-Anytime Fitness Lower Peirce,Classes/Programs,4,0.400225,50.0,0.0
-Anytime Fitness Lower Peirce,Price/Fees,4,0.638725,100.0,0.0
-Anytime Fitness Mountbatten,Cleanliness,14,0.603282142857143,100.0,0.0
-Anytime Fitness Mountbatten,Equipment,22,0.40858181818181816,81.82,9.09
-Anytime Fitness Mountbatten,Staff/Service,44,0.5732003787878788,90.91,2.27
-Anytime Fitness Mountbatten,Facilities,10,0.63612,100.0,0.0
-Anytime Fitness Mountbatten,Overall Experience,19,0.6280447368421052,89.47,10.53
-Anytime Fitness Mountbatten,Classes/Programs,7,0.4114214285714285,71.43,0.0
-Anytime Fitness Mountbatten,Crowdedness,9,0.2003888888888889,44.44,11.11
-Anytime Fitness Mountbatten,Location/Accessibility,7,0.5352357142857143,100.0,0.0
-Anytime Fitness Mountbatten,Price/Fees,7,0.48524285714285714,85.71,0.0
-Anytime Fitness Mountbatten,Policies/Contract,6,0.6059666666666667,83.33,0.0
-Anytime Fitness Geylang Central,Equipment,40,0.46674625000000003,77.5,0.0
-Anytime Fitness Geylang Central,Facilities,52,0.4999572115384615,82.69,0.0
-Anytime Fitness Geylang Central,Cleanliness,38,0.5638644736842106,89.47,2.63
-Anytime Fitness Geylang Central,Price/Fees,8,0.26991875,50.0,0.0
-Anytime Fitness Geylang Central,Staff/Service,56,0.6268199404761905,92.86,7.14
-Anytime Fitness Geylang Central,Overall Experience,59,0.5301028248587569,98.31,0.0
-Anytime Fitness Geylang Central,Location/Accessibility,14,0.32416666666666666,64.29,7.14
-Anytime Fitness Geylang Central,Policies/Contract,5,0.22347999999999998,60.0,40.0
-Anytime Fitness Geylang Central,Crowdedness,12,0.32441666666666663,58.33,0.0
-Anytime Fitness Geylang Central,Classes/Programs,6,0.5189,83.33,0.0
-Anytime Fitness Geylang,Staff/Service,14,0.6051821428571429,92.86,0.0
-Anytime Fitness Geylang,Policies/Contract,3,0.31540000000000007,66.67,33.33
-Anytime Fitness Geylang,Overall Experience,6,0.481125,100.0,0.0
-Anytime Fitness Geylang,Facilities,9,0.4942796296296296,88.89,11.11
-Anytime Fitness Geylang,Location/Accessibility,6,0.28146666666666664,50.0,33.33
-Anytime Fitness Geylang,Equipment,8,0.3827375,75.0,12.5
-Anytime Fitness Geylang,Classes/Programs,2,0.0,0.0,0.0
-Anytime Fitness Geylang,Cleanliness,4,0.6931,100.0,0.0
-Anytime Fitness Geylang,Crowdedness,3,0.40576666666666666,66.67,0.0
-Anytime Fitness Kembangan,Staff/Service,31,0.5294155913978494,80.65,12.9
-Anytime Fitness Kembangan,Facilities,12,0.25238750000000004,75.0,25.0
-Anytime Fitness Kembangan,Overall Experience,26,0.529565705128205,88.46,11.54
-Anytime Fitness Kembangan,Cleanliness,10,0.4145499999999999,90.0,10.0
-Anytime Fitness Kembangan,Location/Accessibility,5,0.31301999999999996,80.0,20.0
-Anytime Fitness Kembangan,Crowdedness,11,0.18480909090909092,36.36,0.0
-Anytime Fitness Kembangan,Equipment,14,0.25615000000000004,64.29,14.29
-Anytime Fitness Kembangan,Classes/Programs,1,0.296,100.0,0.0
-Anytime Fitness Kembangan,Price/Fees,6,0.06263333333333333,33.33,50.0
-Anytime Fitness Kembangan,Policies/Contract,3,0.07973333333333332,33.33,66.67
+Anytime Fitness NEX,Overall Experience,33,0.06385969696969696,48.48,42.42
+Anytime Fitness NEX,Crowdedness,24,0.023554166666666654,20.83,20.83
+Anytime Fitness NEX,Staff/Service,59,-0.04916638418079096,32.2,45.76
+Anytime Fitness NEX,Facilities,41,0.13640813008130082,51.22,24.39
+Anytime Fitness NEX,Location/Accessibility,31,0.09956612903225803,45.16,29.03
+Anytime Fitness NEX,Equipment,58,0.054647701149425285,41.38,32.76
+Anytime Fitness NEX,Cleanliness,20,-0.02119833333333334,40.0,50.0
+Anytime Fitness NEX,Policies/Contract,14,0.06263214285714287,42.86,28.57
+Anytime Fitness NEX,Price/Fees,26,0.09718814102564101,57.69,23.08
+Anytime Fitness NEX,Classes/Programs,4,0.05167500000000001,50.0,25.0
+Anytime Fitness Upper Cross Street,Facilities,20,0.11115833333333333,45.0,30.0
+Anytime Fitness Upper Cross Street,Location/Accessibility,17,0.1453441176470588,52.94,17.65
+Anytime Fitness Upper Cross Street,Staff/Service,28,0.21557380952380953,67.86,28.57
+Anytime Fitness Upper Cross Street,Overall Experience,18,0.3640157407407407,66.67,22.22
+Anytime Fitness Upper Cross Street,Cleanliness,26,0.01614025641025641,38.46,50.0
+Anytime Fitness Upper Cross Street,Equipment,27,0.24992098765432097,51.85,29.63
+Anytime Fitness Upper Cross Street,Policies/Contract,6,0.37556666666666666,100.0,0.0
+Anytime Fitness Upper Cross Street,Price/Fees,11,0.11198636363636365,36.36,27.27
+Anytime Fitness Upper Cross Street,Classes/Programs,4,0.2605,50.0,0.0
+Anytime Fitness Upper Cross Street,Crowdedness,9,0.20243333333333335,55.56,11.11
 Anytime Fitness Bukit Timah Central,Staff/Service,377,0.6789915473032714,95.23,1.86
 Anytime Fitness Bukit Timah Central,Equipment,166,0.538857469879518,82.53,6.02
 Anytime Fitness Bukit Timah Central,Price/Fees,20,0.3785425,70.0,25.0
@@ -466,46 +239,16 @@ Anytime Fitness Bukit Timah Central,Overall Experience,179,0.6292675538707103,93
 Anytime Fitness Bukit Timah Central,Cleanliness,145,0.6475448275862069,94.48,4.83
 Anytime Fitness Bukit Timah Central,Location/Accessibility,52,0.4309052884615385,73.08,7.69
 Anytime Fitness Bukit Timah Central,Classes/Programs,10,0.23448000000000002,50.0,10.0
-Anytime Fitness Novena,Staff/Service,53,0.5169463836477988,84.91,13.21
-Anytime Fitness Novena,Cleanliness,28,0.5089505952380954,82.14,10.71
-Anytime Fitness Novena,Price/Fees,13,0.12093076923076923,38.46,23.08
-Anytime Fitness Novena,Policies/Contract,9,0.19345,66.67,11.11
-Anytime Fitness Novena,Overall Experience,22,0.5658159090909092,90.91,9.09
-Anytime Fitness Novena,Equipment,21,0.44466785714285706,76.19,14.29
-Anytime Fitness Novena,Facilities,24,0.5354739583333333,87.5,4.17
-Anytime Fitness Novena,Location/Accessibility,13,0.3953576923076923,69.23,7.69
-Anytime Fitness Novena,Classes/Programs,6,0.53505,83.33,0.0
-Anytime Fitness Novena,Crowdedness,7,0.4532928571428571,85.71,0.0
-Anytime Fitness Stevens,Staff/Service,19,0.4294642105263158,73.68,15.79
-Anytime Fitness Stevens,Price/Fees,3,-0.11341111111111112,33.33,33.33
-Anytime Fitness Stevens,Equipment,13,0.5036615384615385,84.62,0.0
-Anytime Fitness Stevens,Facilities,11,0.357730303030303,72.73,9.09
-Anytime Fitness Stevens,Overall Experience,12,0.42389999999999994,75.0,8.33
-Anytime Fitness Stevens,Policies/Contract,3,0.030100000000000016,33.33,33.33
-Anytime Fitness Stevens,Location/Accessibility,11,0.39626818181818185,90.91,9.09
-Anytime Fitness Stevens,Cleanliness,12,0.4042416666666666,75.0,25.0
-Anytime Fitness Stevens,Crowdedness,3,-0.16066666666666665,33.33,33.33
-Anytime Fitness Stevens,Classes/Programs,2,0.6597500000000001,100.0,0.0
-Anytime Fitness Greenwich V,Staff/Service,14,0.49082857142857145,78.57,14.29
-Anytime Fitness Greenwich V,Cleanliness,11,0.600809090909091,100.0,0.0
-Anytime Fitness Greenwich V,Equipment,11,0.37747787878787875,72.73,9.09
-Anytime Fitness Greenwich V,Facilities,18,0.3821435185185186,83.33,11.11
-Anytime Fitness Greenwich V,Overall Experience,11,0.4118439393939393,81.82,18.18
-Anytime Fitness Greenwich V,Policies/Contract,6,0.4095166666666667,83.33,16.67
-Anytime Fitness Greenwich V,Price/Fees,2,0.2202,50.0,0.0
-Anytime Fitness Greenwich V,Crowdedness,6,0.4252833333333333,83.33,0.0
-Anytime Fitness Greenwich V,Location/Accessibility,6,0.2503,66.67,0.0
-Anytime Fitness Greenwich V,Classes/Programs,1,0.5859,100.0,0.0
-Anytime Fitness Marine Parade Central,Staff/Service,52,0.5899209615384615,94.23,1.92
-Anytime Fitness Marine Parade Central,Overall Experience,42,0.507334126984127,90.48,4.76
-Anytime Fitness Marine Parade Central,Cleanliness,25,0.6533,100.0,0.0
-Anytime Fitness Marine Parade Central,Equipment,41,0.4766427235772358,90.24,2.44
-Anytime Fitness Marine Parade Central,Location/Accessibility,24,0.3667916666666667,70.83,8.33
-Anytime Fitness Marine Parade Central,Price/Fees,6,0.4592833333333333,100.0,0.0
-Anytime Fitness Marine Parade Central,Facilities,27,0.4434126543209876,77.78,7.41
-Anytime Fitness Marine Parade Central,Crowdedness,8,0.177575,50.0,25.0
-Anytime Fitness Marine Parade Central,Policies/Contract,4,0.660975,100.0,0.0
-Anytime Fitness Marine Parade Central,Classes/Programs,1,0.0,0.0,0.0
+Anytime Fitness hillV2,Staff/Service,35,0.14894904761904765,51.43,37.14
+Anytime Fitness hillV2,Cleanliness,17,0.37888431372549014,70.59,5.88
+Anytime Fitness hillV2,Equipment,27,0.16812425925925928,48.15,29.63
+Anytime Fitness hillV2,Facilities,27,0.15929755892255895,48.15,22.22
+Anytime Fitness hillV2,Policies/Contract,12,-0.05630694444444445,33.33,41.67
+Anytime Fitness hillV2,Location/Accessibility,14,0.21727380952380954,57.14,7.14
+Anytime Fitness hillV2,Classes/Programs,3,0.22693333333333332,33.33,0.0
+Anytime Fitness hillV2,Crowdedness,12,0.2195625,50.0,16.67
+Anytime Fitness hillV2,Price/Fees,13,-0.028616153846153854,38.46,30.77
+Anytime Fitness hillV2,Overall Experience,20,0.29977250000000005,70.0,25.0
 Anytime Fitness New Upper Thomson,Location/Accessibility,34,0.4228044117647059,70.59,0.0
 Anytime Fitness New Upper Thomson,Staff/Service,113,0.6598137168141592,97.35,1.77
 Anytime Fitness New Upper Thomson,Overall Experience,71,0.5767274647887325,91.55,2.82
@@ -526,16 +269,6 @@ Anytime Fitness Geylang Bahru,Location/Accessibility,27,0.4414777777777777,74.07
 Anytime Fitness Geylang Bahru,Policies/Contract,8,0.6524000000000001,100.0,0.0
 Anytime Fitness Geylang Bahru,Classes/Programs,7,0.24964285714285714,71.43,14.29
 Anytime Fitness Geylang Bahru,Price/Fees,38,0.47972368421052625,76.32,2.63
-Anytime Fitness Raffles Place,Staff/Service,92,0.6489866847826087,95.65,4.35
-Anytime Fitness Raffles Place,Cleanliness,39,0.6980863247863248,100.0,0.0
-Anytime Fitness Raffles Place,Overall Experience,40,0.5482252083333334,87.5,7.5
-Anytime Fitness Raffles Place,Facilities,33,0.3995340909090909,72.73,9.09
-Anytime Fitness Raffles Place,Location/Accessibility,17,0.511764705882353,82.35,0.0
-Anytime Fitness Raffles Place,Equipment,34,0.44782529411764704,76.47,8.82
-Anytime Fitness Raffles Place,Price/Fees,14,0.30107142857142855,64.29,7.14
-Anytime Fitness Raffles Place,Crowdedness,16,0.25858020833333334,56.25,12.5
-Anytime Fitness Raffles Place,Policies/Contract,6,0.38015,66.67,33.33
-Anytime Fitness Raffles Place,Classes/Programs,3,0.7806333333333333,100.0,0.0
 Anytime Fitness New Tech Park,Staff/Service,213,0.64232034428795,94.84,1.88
 Anytime Fitness New Tech Park,Cleanliness,80,0.5724525,92.5,5.0
 Anytime Fitness New Tech Park,Equipment,48,0.4466088541666667,75.0,8.33
@@ -546,297 +279,92 @@ Anytime Fitness New Tech Park,Location/Accessibility,30,0.5528466666666667,86.67
 Anytime Fitness New Tech Park,Overall Experience,87,0.6582683908045979,96.55,2.3
 Anytime Fitness New Tech Park,Classes/Programs,37,0.48575135135135133,78.38,0.0
 Anytime Fitness New Tech Park,Crowdedness,19,0.30747368421052634,57.89,21.05
-Anytime Fitness Teck Whye,Staff/Service,39,0.6358850427350426,92.31,5.13
-Anytime Fitness Teck Whye,Crowdedness,3,0.20796666666666666,33.33,0.0
-Anytime Fitness Teck Whye,Location/Accessibility,5,0.14992,40.0,20.0
-Anytime Fitness Teck Whye,Overall Experience,10,0.6711483333333332,90.0,10.0
-Anytime Fitness Teck Whye,Cleanliness,8,0.409925,75.0,12.5
-Anytime Fitness Teck Whye,Equipment,8,0.1798125,50.0,12.5
-Anytime Fitness Teck Whye,Price/Fees,6,0.014050000000000007,33.33,33.33
-Anytime Fitness Teck Whye,Facilities,10,0.34924,60.0,10.0
-Anytime Fitness Teck Whye,Policies/Contract,1,0.8341,100.0,0.0
-Anytime Fitness Bishan,Equipment,16,0.47488125,81.25,6.25
-Anytime Fitness Bishan,Crowdedness,11,0.33045454545454545,72.73,18.18
-Anytime Fitness Bishan,Location/Accessibility,9,0.4101888888888889,66.67,11.11
-Anytime Fitness Bishan,Classes/Programs,10,0.21682999999999994,60.0,10.0
-Anytime Fitness Bishan,Staff/Service,19,0.26073421052631585,73.68,26.32
-Anytime Fitness Bishan,Overall Experience,15,0.6446188888888891,100.0,0.0
-Anytime Fitness Bishan,Cleanliness,11,0.4910272727272727,90.91,0.0
-Anytime Fitness Bishan,Facilities,13,0.6905000000000001,100.0,0.0
-Anytime Fitness Bishan,Policies/Contract,2,-0.14975,50.0,50.0
-Anytime Fitness Bishan,Price/Fees,1,-0.0772,0.0,100.0
-Anytime Fitness Sunshine Place,Staff/Service,24,0.6224525,87.5,4.17
-Anytime Fitness Sunshine Place,Cleanliness,7,0.3972428571428571,85.71,14.29
-Anytime Fitness Sunshine Place,Facilities,11,0.4959409090909091,90.91,0.0
-Anytime Fitness Sunshine Place,Classes/Programs,1,0.63295,100.0,0.0
-Anytime Fitness Sunshine Place,Equipment,8,0.340475,62.5,0.0
-Anytime Fitness Sunshine Place,Crowdedness,6,0.13005833333333333,33.33,33.33
-Anytime Fitness Sunshine Place,Overall Experience,21,0.5646514285714285,90.48,4.76
-Anytime Fitness Sunshine Place,Location/Accessibility,4,0.1101625,50.0,0.0
-Anytime Fitness Sunshine Place,Price/Fees,4,0.19479166666666667,75.0,25.0
-Anytime Fitness Sunshine Place,Policies/Contract,5,0.2472,60.0,20.0
-Anytime Fitness City Hall,Facilities,67,0.41663557213930347,76.12,2.99
-Anytime Fitness City Hall,Classes/Programs,22,0.3857537878787879,77.27,9.09
-Anytime Fitness City Hall,Overall Experience,70,0.5214623333333332,87.14,7.14
-Anytime Fitness City Hall,Cleanliness,41,0.4453382113821139,82.93,12.2
-Anytime Fitness City Hall,Staff/Service,85,0.5401799019607842,84.71,9.41
-Anytime Fitness City Hall,Policies/Contract,10,0.19022750000000002,50.0,20.0
-Anytime Fitness City Hall,Equipment,54,0.32877852733686064,64.81,9.26
-Anytime Fitness City Hall,Crowdedness,26,0.22147692307692307,61.54,15.38
-Anytime Fitness City Hall,Location/Accessibility,27,0.41567407407407403,85.19,7.41
-Anytime Fitness City Hall,Price/Fees,13,0.22573461538461534,61.54,23.08
-Anytime Fitness Cantonment Road,Staff/Service,18,0.39625,72.22,27.78
-Anytime Fitness Cantonment Road,Cleanliness,11,0.258790909090909,72.73,27.27
-Anytime Fitness Cantonment Road,Equipment,26,0.2317570512820513,65.38,15.38
-Anytime Fitness Cantonment Road,Crowdedness,10,0.2386,60.0,10.0
-Anytime Fitness Cantonment Road,Overall Experience,17,0.37370294117647057,76.47,23.53
-Anytime Fitness Cantonment Road,Facilities,20,0.1681525,50.0,30.0
-Anytime Fitness Cantonment Road,Location/Accessibility,9,0.1591111111111111,33.33,11.11
-Anytime Fitness Cantonment Road,Classes/Programs,1,0.2732,100.0,0.0
-Anytime Fitness Cantonment Road,Price/Fees,6,0.10201666666666669,50.0,33.33
-Anytime Fitness Cantonment Road,Policies/Contract,3,0.019533333333333347,33.33,33.33
-Anytime Fitness Potong Pasir,Equipment,39,0.3756192307692308,79.49,7.69
-Anytime Fitness Potong Pasir,Staff/Service,104,0.6101521634615386,92.31,4.81
-Anytime Fitness Potong Pasir,Cleanliness,29,0.5548689655172414,82.76,3.45
-Anytime Fitness Potong Pasir,Facilities,39,0.408487905982906,74.36,5.13
-Anytime Fitness Potong Pasir,Classes/Programs,16,0.34305625,62.5,12.5
-Anytime Fitness Potong Pasir,Overall Experience,77,0.5792634199134199,96.1,1.3
-Anytime Fitness Potong Pasir,Location/Accessibility,30,0.49126777777777775,80.0,0.0
-Anytime Fitness Potong Pasir,Price/Fees,15,0.16404166666666667,60.0,40.0
-Anytime Fitness Potong Pasir,Crowdedness,19,0.2001842105263158,36.84,21.05
-Anytime Fitness Potong Pasir,Policies/Contract,11,0.5189075757575756,90.91,0.0
-Anytime Fitness Hong Kah North CC,Staff/Service,12,0.58125,83.33,16.67
-Anytime Fitness Hong Kah North CC,Price/Fees,2,0.0761,50.0,0.0
-Anytime Fitness Hong Kah North CC,Policies/Contract,1,0.0258,0.0,0.0
-Anytime Fitness Hong Kah North CC,Overall Experience,9,0.5207777777777778,88.89,11.11
-Anytime Fitness Hong Kah North CC,Cleanliness,8,0.41912499999999997,62.5,0.0
-Anytime Fitness Hong Kah North CC,Facilities,10,0.4438066666666667,70.0,0.0
-Anytime Fitness Hong Kah North CC,Equipment,7,0.44415714285714286,85.71,0.0
-Anytime Fitness Hong Kah North CC,Location/Accessibility,4,0.0004250000000000087,25.0,25.0
-Anytime Fitness Hong Kah North CC,Crowdedness,1,0.4019,100.0,0.0
-Anytime Fitness Grantral Complex,Staff/Service,116,0.5133847701149425,91.38,2.59
-Anytime Fitness Grantral Complex,Equipment,48,0.19380802083333334,52.08,27.08
-Anytime Fitness Grantral Complex,Facilities,60,0.2648784444444444,65.0,10.0
-Anytime Fitness Grantral Complex,Policies/Contract,6,0.08131666666666669,50.0,33.33
-Anytime Fitness Grantral Complex,Location/Accessibility,13,0.3246435897435897,61.54,15.38
-Anytime Fitness Grantral Complex,Overall Experience,80,0.5904022916666666,90.0,7.5
-Anytime Fitness Grantral Complex,Price/Fees,36,0.3538611111111111,80.56,5.56
-Anytime Fitness Grantral Complex,Cleanliness,35,0.24922285714285713,65.71,31.43
-Anytime Fitness Grantral Complex,Crowdedness,14,0.006745238095238096,35.71,42.86
-Anytime Fitness Grantral Complex,Classes/Programs,8,0.40750624999999996,75.0,25.0
-Anytime Fitness Wheelock Place,Staff/Service,129,0.7032700904392765,97.67,0.0
-Anytime Fitness Wheelock Place,Cleanliness,61,0.5723131147540983,91.8,4.92
-Anytime Fitness Wheelock Place,Facilities,70,0.5176447619047618,81.43,4.29
-Anytime Fitness Wheelock Place,Equipment,50,0.46180299999999996,76.0,8.0
-Anytime Fitness Wheelock Place,Location/Accessibility,33,0.44188863636363634,78.79,0.0
-Anytime Fitness Wheelock Place,Overall Experience,67,0.6286942786069653,97.01,1.49
-Anytime Fitness Wheelock Place,Crowdedness,22,0.24591969696969693,50.0,4.55
-Anytime Fitness Wheelock Place,Policies/Contract,8,0.31689375,62.5,25.0
-Anytime Fitness Wheelock Place,Classes/Programs,14,0.46226071428571425,85.71,0.0
-Anytime Fitness Wheelock Place,Price/Fees,8,0.07556624999999997,25.0,37.5
-Anytime Fitness Pasir Ris Elias CC,Staff/Service,81,0.6294475308641975,93.83,2.47
-Anytime Fitness Pasir Ris Elias CC,Cleanliness,7,0.5082642857142857,85.71,14.29
-Anytime Fitness Pasir Ris Elias CC,Price/Fees,12,0.4207416666666666,66.67,8.33
-Anytime Fitness Pasir Ris Elias CC,Overall Experience,55,0.5670824848484848,90.91,1.82
-Anytime Fitness Pasir Ris Elias CC,Policies/Contract,11,0.21825454545454545,54.55,27.27
-Anytime Fitness Pasir Ris Elias CC,Classes/Programs,15,0.3574511111111111,66.67,6.67
-Anytime Fitness Pasir Ris Elias CC,Equipment,18,0.2848388888888889,61.11,11.11
-Anytime Fitness Pasir Ris Elias CC,Facilities,16,0.38988125000000007,75.0,18.75
-Anytime Fitness Pasir Ris Elias CC,Location/Accessibility,8,0.5346375,87.5,0.0
-Anytime Fitness Pasir Ris Elias CC,Crowdedness,1,0.0,0.0,0.0
-Anytime Fitness Upper Changi,Staff/Service,12,0.7542208333333335,100.0,0.0
-Anytime Fitness Upper Changi,Cleanliness,6,0.5250166666666667,100.0,0.0
-Anytime Fitness Upper Changi,Facilities,4,0.4703875,75.0,25.0
-Anytime Fitness Upper Changi,Location/Accessibility,7,0.5332000000000001,85.71,14.29
-Anytime Fitness Upper Changi,Overall Experience,9,0.5690722222222222,88.89,0.0
-Anytime Fitness Upper Changi,Equipment,7,0.7135499999999999,85.71,0.0
-Anytime Fitness Upper Changi,Crowdedness,3,0.07993333333333336,33.33,66.67
-Anytime Fitness Upper Changi,Classes/Programs,4,0.34609999999999996,75.0,0.0
-Anytime Fitness Upper Changi,Price/Fees,1,-0.3919,0.0,100.0
-Anytime Fitness Serangoon Garden,Staff/Service,120,0.648933382936508,94.17,4.17
-Anytime Fitness Serangoon Garden,Cleanliness,74,0.6300297297297297,94.59,2.7
-Anytime Fitness Serangoon Garden,Classes/Programs,12,0.46039166666666675,83.33,16.67
-Anytime Fitness Serangoon Garden,Overall Experience,73,0.5817570776255707,90.41,5.48
-Anytime Fitness Serangoon Garden,Equipment,76,0.45633574561403517,81.58,2.63
-Anytime Fitness Serangoon Garden,Policies/Contract,12,0.3909416666666667,58.33,8.33
-Anytime Fitness Serangoon Garden,Crowdedness,32,0.32447187499999997,56.25,6.25
-Anytime Fitness Serangoon Garden,Location/Accessibility,47,0.43663404255319155,76.6,2.13
-Anytime Fitness Serangoon Garden,Facilities,79,0.5111006329113923,84.81,3.8
-Anytime Fitness Serangoon Garden,Price/Fees,8,0.19918750000000002,50.0,12.5
-Anytime Fitness Marsiling MRT,Staff/Service,6,0.6038833333333332,100.0,0.0
-Anytime Fitness Marsiling MRT,Equipment,7,0.29866,57.14,0.0
-Anytime Fitness Marsiling MRT,Price/Fees,2,0.44065,100.0,0.0
-Anytime Fitness Marsiling MRT,Location/Accessibility,7,0.36736428571428575,71.43,14.29
-Anytime Fitness Marsiling MRT,Overall Experience,9,0.533911111111111,88.89,11.11
-Anytime Fitness Marsiling MRT,Facilities,6,0.4160333333333334,66.67,0.0
-Anytime Fitness Marsiling MRT,Cleanliness,4,0.6598499999999999,100.0,0.0
-Anytime Fitness Marsiling MRT,Crowdedness,2,0.0,0.0,0.0
-Anytime Fitness Marsiling MRT,Policies/Contract,1,-0.34,0.0,100.0
-Anytime Fitness Harbourfront,Staff/Service,86,0.5878394961240311,89.53,3.49
-Anytime Fitness Harbourfront,Facilities,54,0.40654166666666663,75.93,5.56
-Anytime Fitness Harbourfront,Overall Experience,57,0.5480830409356725,87.72,8.77
-Anytime Fitness Harbourfront,Equipment,48,0.346225,64.58,10.42
-Anytime Fitness Harbourfront,Cleanliness,22,0.5280166666666667,90.91,0.0
-Anytime Fitness Harbourfront,Crowdedness,14,0.21432857142857142,50.0,14.29
-Anytime Fitness Harbourfront,Price/Fees,5,0.34896000000000005,80.0,0.0
-Anytime Fitness Harbourfront,Classes/Programs,5,0.61248,80.0,0.0
-Anytime Fitness Harbourfront,Location/Accessibility,19,0.3237789473684211,52.63,5.26
-Anytime Fitness Harbourfront,Policies/Contract,4,0.567075,100.0,0.0
-Anytime Fitness Orchard,Staff/Service,392,0.7048343537414966,97.19,1.53
-Anytime Fitness Orchard,Location/Accessibility,82,0.512515243902439,84.15,3.66
-Anytime Fitness Orchard,Overall Experience,218,0.6226242354740061,97.25,0.92
-Anytime Fitness Orchard,Equipment,141,0.5265128250591016,87.23,4.26
-Anytime Fitness Orchard,Facilities,147,0.47763510204081633,79.59,9.52
-Anytime Fitness Orchard,Price/Fees,28,0.32157857142857144,67.86,21.43
-Anytime Fitness Orchard,Policies/Contract,23,0.2808478260869565,60.87,13.04
-Anytime Fitness Orchard,Crowdedness,57,0.3235640350877193,66.67,1.75
-Anytime Fitness Orchard,Cleanliness,118,0.6242303672316383,95.76,4.24
-Anytime Fitness Orchard,Classes/Programs,21,0.526252380952381,90.48,4.76
-Anytime Fitness Valley Point,Cleanliness,26,0.5772365384615384,92.31,3.85
-Anytime Fitness Valley Point,Equipment,24,0.3332034722222222,66.67,8.33
-Anytime Fitness Valley Point,Crowdedness,12,0.2734083333333333,58.33,16.67
-Anytime Fitness Valley Point,Staff/Service,31,0.5785021505376344,90.32,3.23
-Anytime Fitness Valley Point,Facilities,22,0.5482621212121213,90.91,4.55
-Anytime Fitness Valley Point,Location/Accessibility,7,0.41613571428571433,71.43,28.57
-Anytime Fitness Valley Point,Overall Experience,26,0.47463846153846156,84.62,15.38
-Anytime Fitness Valley Point,Price/Fees,9,0.19684333333333331,66.67,11.11
-Anytime Fitness Valley Point,Policies/Contract,3,-0.056172222222222214,33.33,33.33
-Anytime Fitness Valley Point,Classes/Programs,3,-0.15236666666666668,33.33,66.67
-Anytime Fitness Holland Village,Equipment,35,0.3940185714285714,68.57,8.57
-Anytime Fitness Holland Village,Staff/Service,76,0.5812126096491227,88.16,9.21
-Anytime Fitness Holland Village,Location/Accessibility,13,0.28524999999999995,53.85,7.69
-Anytime Fitness Holland Village,Facilities,31,0.39779193548387093,70.97,19.35
-Anytime Fitness Holland Village,Crowdedness,19,0.3306,68.42,15.79
-Anytime Fitness Holland Village,Cleanliness,38,0.5962776315789475,86.84,7.89
-Anytime Fitness Holland Village,Classes/Programs,9,0.5525425925925926,100.0,0.0
-Anytime Fitness Holland Village,Overall Experience,36,0.6186041666666665,94.44,5.56
-Anytime Fitness Holland Village,Policies/Contract,6,0.3260097222222222,50.0,16.67
-Anytime Fitness Holland Village,Price/Fees,6,0.17519444444444443,50.0,33.33
-Anytime Fitness Boon Keng,Staff/Service,58,0.5711954022988505,91.38,8.62
-Anytime Fitness Boon Keng,Location/Accessibility,19,0.31789210526315786,57.89,15.79
-Anytime Fitness Boon Keng,Overall Experience,38,0.48012631578947373,89.47,7.89
-Anytime Fitness Boon Keng,Cleanliness,29,0.567275,93.1,3.45
-Anytime Fitness Boon Keng,Equipment,29,0.4041027586206897,79.31,13.79
-Anytime Fitness Boon Keng,Facilities,41,0.44021585365853655,78.05,4.88
-Anytime Fitness Boon Keng,Policies/Contract,9,0.3801777777777777,88.89,11.11
-Anytime Fitness Boon Keng,Price/Fees,9,-0.07915555555555555,44.44,44.44
-Anytime Fitness Boon Keng,Crowdedness,8,0.10084375000000001,25.0,25.0
-Anytime Fitness Boon Keng,Classes/Programs,2,-0.11315,0.0,50.0
-Anytime Fitness Loyang Point,Staff/Service,28,0.47200892857142857,82.14,17.86
-Anytime Fitness Loyang Point,Location/Accessibility,6,0.5591555555555555,100.0,0.0
-Anytime Fitness Loyang Point,Overall Experience,14,0.519847619047619,85.71,14.29
-Anytime Fitness Loyang Point,Facilities,19,0.4352842105263157,78.95,5.26
-Anytime Fitness Loyang Point,Equipment,18,0.38387592592592595,72.22,16.67
-Anytime Fitness Loyang Point,Classes/Programs,4,0.6841125,100.0,0.0
-Anytime Fitness Loyang Point,Price/Fees,7,0.25019285714285716,57.14,28.57
-Anytime Fitness Loyang Point,Policies/Contract,6,0.30423333333333336,66.67,16.67
-Anytime Fitness Loyang Point,Cleanliness,9,0.35136666666666666,77.78,22.22
-Anytime Fitness Loyang Point,Crowdedness,3,0.7538,100.0,0.0
-Anytime Fitness Marymount CC,Staff/Service,36,0.5673395370370371,88.89,8.33
-Anytime Fitness Marymount CC,Cleanliness,14,0.5867071428571428,85.71,7.14
-Anytime Fitness Marymount CC,Classes/Programs,5,0.47994000000000003,80.0,20.0
-Anytime Fitness Marymount CC,Equipment,16,0.4422541666666666,81.25,12.5
-Anytime Fitness Marymount CC,Location/Accessibility,10,0.14844000000000004,70.0,30.0
-Anytime Fitness Marymount CC,Overall Experience,25,0.421206,84.0,16.0
-Anytime Fitness Marymount CC,Facilities,17,0.3451705882352942,70.59,11.76
-Anytime Fitness Marymount CC,Policies/Contract,2,0.061100000000000015,50.0,50.0
-Anytime Fitness Marymount CC,Crowdedness,9,0.22555555555555554,55.56,0.0
-Anytime Fitness Marymount CC,Price/Fees,8,0.10235,62.5,12.5
-"Anytime Fitness, Telok Blangah",Staff/Service,40,0.6027808333333333,95.0,5.0
-"Anytime Fitness, Telok Blangah",Crowdedness,9,0.4370611111111111,88.89,11.11
-"Anytime Fitness, Telok Blangah",Classes/Programs,11,0.6693757575757576,90.91,0.0
-"Anytime Fitness, Telok Blangah",Equipment,16,0.35676562500000003,62.5,18.75
-"Anytime Fitness, Telok Blangah",Cleanliness,13,0.19882307692307694,53.85,38.46
-"Anytime Fitness, Telok Blangah",Overall Experience,19,0.39652631578947367,73.68,10.53
-"Anytime Fitness, Telok Blangah",Location/Accessibility,13,0.316676923076923,53.85,15.38
-"Anytime Fitness, Telok Blangah",Price/Fees,5,0.50982,80.0,20.0
-"Anytime Fitness, Telok Blangah",Facilities,20,0.2930674999999999,65.0,15.0
-"Anytime Fitness, Telok Blangah",Policies/Contract,2,-0.04015,0.0,50.0
-Anytime Fitness Hougang CC,Staff/Service,34,0.6839955882352942,97.06,2.94
-Anytime Fitness Hougang CC,Equipment,13,0.4232461538461539,76.92,23.08
-Anytime Fitness Hougang CC,Price/Fees,3,-0.1187888888888889,33.33,33.33
-Anytime Fitness Hougang CC,Cleanliness,9,0.5813833333333335,100.0,0.0
-Anytime Fitness Hougang CC,Facilities,10,0.544998,80.0,0.0
-Anytime Fitness Hougang CC,Crowdedness,23,0.09708840579710144,17.39,0.0
-Anytime Fitness Hougang CC,Location/Accessibility,4,0.34049999999999997,75.0,25.0
-Anytime Fitness Hougang CC,Policies/Contract,2,-0.35529999999999995,0.0,100.0
-Anytime Fitness Hougang CC,Overall Experience,25,0.845336,100.0,0.0
-Anytime Fitness Hougang CC,Classes/Programs,1,0.7146,100.0,0.0
-Anytime Fitness Wisteria Mall,Staff/Service,76,0.5444109022556392,89.47,7.89
-Anytime Fitness Wisteria Mall,Cleanliness,19,0.2547815789473684,57.89,31.58
-Anytime Fitness Wisteria Mall,Price/Fees,19,0.1534324561403509,57.89,15.79
-Anytime Fitness Wisteria Mall,Overall Experience,39,0.48349918803418807,89.74,7.69
-Anytime Fitness Wisteria Mall,Equipment,27,0.14999691358024694,48.15,29.63
-Anytime Fitness Wisteria Mall,Facilities,36,0.3269991666666667,72.22,16.67
-Anytime Fitness Wisteria Mall,Policies/Contract,11,0.0517909090909091,36.36,36.36
-Anytime Fitness Wisteria Mall,Location/Accessibility,29,0.2367844827586207,58.62,3.45
-Anytime Fitness Wisteria Mall,Crowdedness,7,-0.008971428571428587,42.86,42.86
-Anytime Fitness Wisteria Mall,Classes/Programs,8,0.25794375,50.0,0.0
-Anytime Fitness Tampines Grande,Staff/Service,12,0.41427708333333335,75.0,16.67
-Anytime Fitness Tampines Grande,Cleanliness,16,0.39181875,81.25,18.75
-Anytime Fitness Tampines Grande,Equipment,13,0.22018974358974358,61.54,23.08
-Anytime Fitness Tampines Grande,Facilities,11,0.12688181818181818,36.36,27.27
-Anytime Fitness Tampines Grande,Crowdedness,5,0.15657,40.0,40.0
-Anytime Fitness Tampines Grande,Overall Experience,7,0.5126857142857143,100.0,0.0
-Anytime Fitness Tampines Grande,Location/Accessibility,7,0.27785714285714286,57.14,14.29
-Anytime Fitness Tampines Grande,Policies/Contract,4,0.1222,25.0,50.0
-Anytime Fitness Tampines Grande,Price/Fees,2,0.4613666666666666,100.0,0.0
-Anytime Fitness Bukit Batok Connection,Staff/Service,10,0.78034,100.0,0.0
-Anytime Fitness Bukit Batok Connection,Equipment,9,0.4814629629629629,77.78,0.0
-Anytime Fitness Bukit Batok Connection,Overall Experience,8,0.748559375,100.0,0.0
-Anytime Fitness Bukit Batok Connection,Cleanliness,7,0.5612571428571429,85.71,0.0
-Anytime Fitness Bukit Batok Connection,Price/Fees,2,0.5605,100.0,0.0
-Anytime Fitness Bukit Batok Connection,Policies/Contract,1,0.0,0.0,0.0
-Anytime Fitness Bukit Batok Connection,Location/Accessibility,2,0.6919500000000001,100.0,0.0
-Anytime Fitness Bukit Batok Connection,Facilities,4,0.6407625,100.0,0.0
-Anytime Fitness NorthShore Plaza,Staff/Service,90,0.6137665740740741,94.44,4.44
-Anytime Fitness NorthShore Plaza,Cleanliness,42,0.5122011904761905,90.48,4.76
-Anytime Fitness NorthShore Plaza,Equipment,51,0.3587547712418301,70.59,7.84
-Anytime Fitness NorthShore Plaza,Facilities,79,0.4160408227848102,77.22,2.53
-Anytime Fitness NorthShore Plaza,Overall Experience,61,0.6276688524590165,95.08,4.92
-Anytime Fitness NorthShore Plaza,Location/Accessibility,16,0.4705229166666667,75.0,6.25
-Anytime Fitness NorthShore Plaza,Crowdedness,32,0.43638125,75.0,6.25
-Anytime Fitness NorthShore Plaza,Policies/Contract,8,0.24331071428571427,50.0,50.0
-Anytime Fitness NorthShore Plaza,Price/Fees,14,0.3059395918367347,71.43,14.29
-Anytime Fitness NorthShore Plaza,Classes/Programs,12,0.3272879166666667,75.0,16.67
-Anytime Fitness Hwi Yoh CC,Price/Fees,5,-0.43704,0.0,100.0
-Anytime Fitness Hwi Yoh CC,Policies/Contract,3,-0.09746666666666666,0.0,33.33
-Anytime Fitness Hwi Yoh CC,Cleanliness,10,-0.10708833333333331,20.0,80.0
-Anytime Fitness Hwi Yoh CC,Equipment,13,-0.14685769230769233,15.38,61.54
-Anytime Fitness Hwi Yoh CC,Facilities,9,0.13658888888888893,44.44,44.44
-Anytime Fitness Hwi Yoh CC,Crowdedness,4,0.0,25.0,25.0
-Anytime Fitness Hwi Yoh CC,Location/Accessibility,5,0.02054,20.0,0.0
-Anytime Fitness Hwi Yoh CC,Overall Experience,7,0.24218571428571428,57.14,28.57
-Anytime Fitness Hwi Yoh CC,Staff/Service,11,0.2887954545454546,63.64,36.36
-Anytime Fitness Hwi Yoh CC,Classes/Programs,4,0.11451249999999999,25.0,25.0
-Anytime Fitness 537 Bedok North,Staff/Service,49,0.5932289115646259,89.8,4.08
-Anytime Fitness 537 Bedok North,Cleanliness,29,0.6649206896551726,100.0,0.0
-Anytime Fitness 537 Bedok North,Equipment,28,0.5634720238095238,92.86,0.0
-Anytime Fitness 537 Bedok North,Facilities,27,0.5983444444444443,92.59,0.0
-Anytime Fitness 537 Bedok North,Location/Accessibility,19,0.4507184210526316,68.42,0.0
-Anytime Fitness 537 Bedok North,Overall Experience,44,0.5813360227272727,95.45,2.27
-Anytime Fitness 537 Bedok North,Crowdedness,6,0.4382333333333333,50.0,0.0
-Anytime Fitness 537 Bedok North,Classes/Programs,11,0.5859954545454545,90.91,0.0
-Anytime Fitness 537 Bedok North,Policies/Contract,5,0.5659333333333334,80.0,0.0
-Anytime Fitness 537 Bedok North,Price/Fees,3,0.6265000000000001,100.0,0.0
-Anytime Fitness Chong Pang,Staff/Service,17,0.6693053921568627,94.12,0.0
-Anytime Fitness Chong Pang,Overall Experience,11,0.6199454545454546,100.0,0.0
-Anytime Fitness Chong Pang,Cleanliness,9,0.6819611111111111,100.0,0.0
-Anytime Fitness Chong Pang,Location/Accessibility,5,0.28102,40.0,0.0
-Anytime Fitness Chong Pang,Equipment,6,0.2861055555555555,66.67,16.67
-Anytime Fitness Chong Pang,Price/Fees,3,0.33466666666666667,66.67,0.0
-Anytime Fitness Chong Pang,Crowdedness,4,0.35950000000000004,50.0,0.0
-Anytime Fitness Chong Pang,Facilities,4,0.4772125,75.0,0.0
-Anytime Fitness Woodlands North,Equipment,24,0.34644375,75.0,12.5
-Anytime Fitness Woodlands North,Facilities,18,0.3603444444444445,77.78,16.67
-Anytime Fitness Woodlands North,Crowdedness,10,0.4309900000000001,90.0,10.0
-Anytime Fitness Woodlands North,Overall Experience,18,0.5557037037037037,88.89,11.11
-Anytime Fitness Woodlands North,Location/Accessibility,16,0.2015625,43.75,12.5
-Anytime Fitness Woodlands North,Staff/Service,24,0.6322569444444445,95.83,4.17
-Anytime Fitness Woodlands North,Policies/Contract,1,0.2023,100.0,0.0
-Anytime Fitness Woodlands North,Cleanliness,7,0.5295285714285715,85.71,14.29
-Anytime Fitness Woodlands North,Price/Fees,1,0.0,0.0,0.0
-Anytime Fitness Woodlands North,Classes/Programs,1,0.5719,100.0,0.0
+Anytime Fitness Northpoint City,Staff/Service,57,-0.015571929824561407,38.6,42.11
+Anytime Fitness Northpoint City,Policies/Contract,11,-0.06905545454545453,36.36,45.45
+Anytime Fitness Northpoint City,Overall Experience,31,0.09357231182795701,51.61,41.94
+Anytime Fitness Northpoint City,Facilities,52,0.14867490384615387,48.08,25.0
+Anytime Fitness Northpoint City,Price/Fees,32,0.07541796875000001,40.62,37.5
+Anytime Fitness Northpoint City,Cleanliness,30,-0.06246333333333333,36.67,53.33
+Anytime Fitness Northpoint City,Equipment,63,0.061449603174603164,41.27,36.51
+Anytime Fitness Northpoint City,Location/Accessibility,24,0.14365520833333334,58.33,20.83
+Anytime Fitness Northpoint City,Crowdedness,18,0.039155555555555555,22.22,16.67
+Anytime Fitness Cecil Street,Staff/Service,58,0.4260824712643678,72.41,17.24
+Anytime Fitness Cecil Street,Cleanliness,32,0.3689986979166667,78.12,9.38
+Anytime Fitness Cecil Street,Location/Accessibility,36,0.3667083333333333,63.89,2.78
+Anytime Fitness Cecil Street,Overall Experience,28,0.36889583333333326,67.86,25.0
+Anytime Fitness Cecil Street,Facilities,43,0.2973075581395349,72.09,13.95
+Anytime Fitness Cecil Street,Price/Fees,15,0.03436588888888889,46.67,33.33
+Anytime Fitness Cecil Street,Classes/Programs,4,0.20898333333333335,50.0,0.0
+Anytime Fitness Cecil Street,Equipment,35,0.28431857142857137,68.57,20.0
+Anytime Fitness Cecil Street,Crowdedness,14,0.2198571428571429,50.0,0.0
+Anytime Fitness Cecil Street,Policies/Contract,12,0.15087499999999998,50.0,25.0
+Anytime Fitness West Coast Plaza,Cleanliness,13,0.2976115384615384,69.23,30.77
+Anytime Fitness West Coast Plaza,Staff/Service,23,0.4302934782608696,78.26,13.04
+Anytime Fitness West Coast Plaza,Equipment,18,0.4504694444444444,77.78,11.11
+Anytime Fitness West Coast Plaza,Overall Experience,17,0.39904803921568627,76.47,17.65
+Anytime Fitness West Coast Plaza,Facilities,25,0.35564999999999997,60.0,12.0
+Anytime Fitness West Coast Plaza,Location/Accessibility,13,0.28929230769230774,61.54,7.69
+Anytime Fitness West Coast Plaza,Crowdedness,13,0.25361538461538463,53.85,7.69
+Anytime Fitness West Coast Plaza,Classes/Programs,11,0.26693636363636364,63.64,18.18
+Anytime Fitness West Coast Plaza,Price/Fees,4,0.475075,75.0,0.0
+Anytime Fitness West Coast Plaza,Policies/Contract,1,0.7579,100.0,0.0
+Anytime Fitness Clementi City,Cleanliness,16,0.300371875,68.75,18.75
+Anytime Fitness Clementi City,Crowdedness,19,0.12458070175438597,36.84,21.05
+Anytime Fitness Clementi City,Equipment,23,0.15677608695652176,56.52,30.43
+Anytime Fitness Clementi City,Staff/Service,62,0.40346881720430106,75.81,19.35
+Anytime Fitness Clementi City,Facilities,27,0.339674074074074,66.67,18.52
+Anytime Fitness Clementi City,Overall Experience,36,0.4015784722222222,77.78,22.22
+Anytime Fitness Clementi City,Location/Accessibility,20,0.28007750000000003,60.0,5.0
+Anytime Fitness Clementi City,Price/Fees,11,0.0742125,36.36,45.45
+Anytime Fitness Clementi City,Classes/Programs,9,0.34018333333333334,77.78,22.22
+Anytime Fitness Clementi City,Policies/Contract,5,0.10401999999999997,40.0,40.0
+Anytime Fitness Kovan,Staff/Service,24,0.20559999999999998,58.33,37.5
+Anytime Fitness Kovan,Cleanliness,18,0.12147166666666667,61.11,38.89
+Anytime Fitness Kovan,Equipment,25,0.05709399999999998,32.0,24.0
+Anytime Fitness Kovan,Facilities,25,0.21827,64.0,24.0
+Anytime Fitness Kovan,Price/Fees,5,-0.11330666666666667,60.0,40.0
+Anytime Fitness Kovan,Policies/Contract,10,-0.06792000000000001,30.0,50.0
+Anytime Fitness Kovan,Overall Experience,15,0.18175000000000002,60.0,20.0
+Anytime Fitness Kovan,Location/Accessibility,10,0.12544499999999997,60.0,20.0
+Anytime Fitness Kovan,Crowdedness,6,0.035766666666666676,16.67,16.67
+Anytime Fitness Kovan,Classes/Programs,7,0.2788714285714286,57.14,0.0
+Anytime Fitness Paya Lebar,Equipment,21,0.149047619047619,52.38,19.05
+Anytime Fitness Paya Lebar,Facilities,25,0.15776200000000004,48.0,12.0
+Anytime Fitness Paya Lebar,Staff/Service,17,0.21328235294117648,58.82,29.41
+Anytime Fitness Paya Lebar,Price/Fees,8,-0.06712749999999999,25.0,50.0
+Anytime Fitness Paya Lebar,Cleanliness,15,0.23916333333333337,66.67,20.0
+Anytime Fitness Paya Lebar,Location/Accessibility,8,0.033029166666666665,25.0,12.5
+Anytime Fitness Paya Lebar,Overall Experience,19,0.2070078947368421,68.42,26.32
+Anytime Fitness Paya Lebar,Crowdedness,9,-0.010255555555555565,33.33,44.44
+Anytime Fitness Paya Lebar,Policies/Contract,4,0.13608333333333333,50.0,50.0
+Anytime Fitness Bedok Central,Staff/Service,62,0.6581443548387097,95.16,3.23
+Anytime Fitness Bedok Central,Crowdedness,12,0.08970416666666665,33.33,16.67
+Anytime Fitness Bedok Central,Location/Accessibility,17,0.454635294117647,82.35,5.88
+Anytime Fitness Bedok Central,Cleanliness,16,0.5672499999999999,87.5,6.25
+Anytime Fitness Bedok Central,Equipment,28,0.36794642857142856,78.57,14.29
+Anytime Fitness Bedok Central,Facilities,22,0.510990909090909,81.82,0.0
+Anytime Fitness Bedok Central,Price/Fees,9,0.403788888888889,66.67,11.11
+Anytime Fitness Bedok Central,Overall Experience,38,0.5317039473684211,84.21,15.79
+Anytime Fitness Bedok Central,Policies/Contract,3,0.36129999999999995,66.67,0.0
+Anytime Fitness Jalan Besar,Cleanliness,18,0.5373333333333333,83.33,0.0
+Anytime Fitness Jalan Besar,Equipment,21,0.33412222222222226,90.48,4.76
+Anytime Fitness Jalan Besar,Facilities,19,0.17939561403508772,57.89,21.05
+Anytime Fitness Jalan Besar,Overall Experience,18,0.45831805555555555,88.89,11.11
+Anytime Fitness Jalan Besar,Crowdedness,13,0.26355384615384614,61.54,7.69
+Anytime Fitness Jalan Besar,Location/Accessibility,8,0.2826,62.5,0.0
+Anytime Fitness Jalan Besar,Staff/Service,26,0.47462756410256407,76.92,11.54
+Anytime Fitness Jalan Besar,Price/Fees,9,0.16459814814814816,44.44,22.22
+Anytime Fitness Jalan Besar,Policies/Contract,8,0.25387499999999996,50.0,25.0
+Anytime Fitness Tiong Bahru Plaza,Staff/Service,16,0.32546250000000004,62.5,25.0
+Anytime Fitness Tiong Bahru Plaza,Policies/Contract,5,0.2214433333333333,40.0,20.0
+Anytime Fitness Tiong Bahru Plaza,Crowdedness,13,0.14518461538461538,46.15,15.38
+Anytime Fitness Tiong Bahru Plaza,Equipment,14,0.311475,71.43,21.43
+Anytime Fitness Tiong Bahru Plaza,Facilities,12,0.4482916666666667,83.33,8.33
+Anytime Fitness Tiong Bahru Plaza,Cleanliness,17,0.2199,58.82,29.41
+Anytime Fitness Tiong Bahru Plaza,Location/Accessibility,10,0.33663,70.0,10.0
+Anytime Fitness Tiong Bahru Plaza,Price/Fees,6,0.09360000000000002,33.33,33.33
+Anytime Fitness Tiong Bahru Plaza,Overall Experience,7,0.15702857142857143,57.14,42.86
+Anytime Fitness Tiong Bahru Plaza,Classes/Programs,2,0.08000666666666667,50.0,50.0
 Anytime Fitness Yishun East,Facilities,56,0.5347633928571429,87.5,3.57
 Anytime Fitness Yishun East,Cleanliness,81,0.6313561728395061,100.0,0.0
 Anytime Fitness Yishun East,Staff/Service,98,0.6881484693877552,98.98,0.0
@@ -847,231 +375,21 @@ Anytime Fitness Yishun East,Overall Experience,49,0.6548768707482993,100.0,0.0
 Anytime Fitness Yishun East,Price/Fees,8,0.4529875,62.5,0.0
 Anytime Fitness Yishun East,Location/Accessibility,21,0.44512142857142856,85.71,0.0
 Anytime Fitness Yishun East,Equipment,47,0.43693085106382984,74.47,0.0
-Anytime Fitness New Queensway,Staff/Service,157,0.7346096178343949,98.09,1.27
-Anytime Fitness New Queensway,Facilities,62,0.5636056451612902,85.48,6.45
+Anytime Fitness New Queensway,Staff/Service,158,0.7329690506329113,98.1,1.27
+Anytime Fitness New Queensway,Facilities,62,0.5637895161290322,85.48,6.45
 Anytime Fitness New Queensway,Equipment,65,0.4966479487179487,86.15,1.54
-Anytime Fitness New Queensway,Overall Experience,101,0.6477821782178218,94.06,2.97
+Anytime Fitness New Queensway,Overall Experience,101,0.6478950495049505,94.06,2.97
 Anytime Fitness New Queensway,Price/Fees,13,0.6001115384615384,92.31,0.0
 Anytime Fitness New Queensway,Cleanliness,74,0.6686263513513513,97.3,1.35
 Anytime Fitness New Queensway,Crowdedness,18,0.40633333333333327,61.11,16.67
 Anytime Fitness New Queensway,Location/Accessibility,20,0.4456199999999999,70.0,10.0
 Anytime Fitness New Queensway,Policies/Contract,12,0.47396666666666665,75.0,8.33
-Anytime Fitness Gambas,Cleanliness,14,0.5101357142857144,92.86,7.14
-Anytime Fitness Gambas,Equipment,16,0.44711875,75.0,0.0
-Anytime Fitness Gambas,Facilities,12,0.4077625,75.0,8.33
-Anytime Fitness Gambas,Location/Accessibility,6,0.23345000000000002,33.33,0.0
-Anytime Fitness Gambas,Overall Experience,20,0.64448,90.0,0.0
-Anytime Fitness Gambas,Staff/Service,20,0.6955366666666665,100.0,0.0
-Anytime Fitness Gambas,Price/Fees,4,0.14697500000000002,50.0,50.0
-Anytime Fitness Gambas,Policies/Contract,2,-0.006750000000000034,50.0,50.0
-Anytime Fitness Gambas,Crowdedness,5,0.39306,80.0,20.0
-Anytime Fitness Gambas,Classes/Programs,3,0.7173666666666666,100.0,0.0
-Anytime Fitness Tekka Place,Staff/Service,70,0.7013180952380953,95.71,1.43
-Anytime Fitness Tekka Place,Facilities,31,0.5461349462365591,87.1,0.0
-Anytime Fitness Tekka Place,Overall Experience,37,0.6686207207207205,100.0,0.0
+Anytime Fitness Tekka Place,Staff/Service,74,0.6974252252252252,95.95,1.35
+Anytime Fitness Tekka Place,Facilities,32,0.5416276041666667,87.5,0.0
+Anytime Fitness Tekka Place,Overall Experience,38,0.6616017543859648,100.0,0.0
 Anytime Fitness Tekka Place,Location/Accessibility,19,0.4696473684210526,78.95,0.0
-Anytime Fitness Tekka Place,Cleanliness,25,0.678814,96.0,0.0
+Anytime Fitness Tekka Place,Cleanliness,26,0.6681634615384616,96.15,0.0
 Anytime Fitness Tekka Place,Policies/Contract,7,0.4803,85.71,0.0
 Anytime Fitness Tekka Place,Equipment,24,0.5302194444444445,79.17,4.17
 Anytime Fitness Tekka Place,Price/Fees,7,0.5328642857142858,100.0,0.0
 Anytime Fitness Tekka Place,Crowdedness,4,0.354875,75.0,0.0
-Anytime Fitness Bukit Merah,Equipment,5,0.51708,80.0,20.0
-Anytime Fitness Bukit Merah,Policies/Contract,1,0.802,100.0,0.0
-Anytime Fitness Bukit Merah,Staff/Service,16,0.653353125,100.0,0.0
-Anytime Fitness Bukit Merah,Facilities,7,0.5135,85.71,0.0
-Anytime Fitness Bukit Merah,Classes/Programs,1,0.4767,100.0,0.0
-Anytime Fitness Bukit Merah,Overall Experience,7,0.5570428571428572,85.71,14.29
-Anytime Fitness Bukit Merah,Cleanliness,9,0.6407999999999999,100.0,0.0
-Anytime Fitness Bukit Merah,Price/Fees,2,0.34985,50.0,0.0
-Anytime Fitness Bukit Merah,Location/Accessibility,5,0.52288,80.0,0.0
-Anytime Fitness Bukit Merah,Crowdedness,1,0.5927,100.0,0.0
-Anytime Fitness Jurong,Staff/Service,2,0.7873000000000001,100.0,0.0
-Anytime Fitness Jurong,Cleanliness,2,0.4559,50.0,0.0
-Anytime Fitness Jurong,Equipment,2,0.4559,50.0,0.0
-Anytime Fitness Jurong,Facilities,1,0.9118,100.0,0.0
-Anytime Fitness Jurong,Price/Fees,1,0.0,0.0,0.0
-Anytime Fitness Jurong,Overall Experience,1,0.8012,100.0,0.0
-Anytime Fitness Jurong,Location/Accessibility,1,0.0,0.0,0.0
-Anytime Fitness - Tengah,Equipment,11,0.5843515151515151,100.0,0.0
-Anytime Fitness - Tengah,Facilities,12,0.5312541666666667,91.67,0.0
-Anytime Fitness - Tengah,Crowdedness,4,0.60495,100.0,0.0
-Anytime Fitness - Tengah,Location/Accessibility,6,0.42815833333333336,83.33,0.0
-Anytime Fitness - Tengah,Overall Experience,13,0.7488115384615385,100.0,0.0
-Anytime Fitness - Tengah,Staff/Service,14,0.7063750000000002,92.86,0.0
-Anytime Fitness - Tengah,Cleanliness,6,0.7128083333333334,100.0,0.0
-Anytime Fitness - Tengah,Price/Fees,3,0.6785666666666668,100.0,0.0
-Anytime Fitness - Tengah,Policies/Contract,1,0.6808,100.0,0.0
-Anytime Fitness - Tengah,Classes/Programs,2,0.6446500000000001,100.0,0.0
-Anytime Fitness Balmoral,Cleanliness,25,0.7712319999999998,100.0,0.0
-Anytime Fitness Balmoral,Equipment,17,0.45883235294117647,76.47,0.0
-Anytime Fitness Balmoral,Facilities,19,0.5936701754385966,94.74,0.0
-Anytime Fitness Balmoral,Price/Fees,4,0.37050000000000005,50.0,0.0
-Anytime Fitness Balmoral,Policies/Contract,16,0.5170468750000001,87.5,6.25
-Anytime Fitness Balmoral,Crowdedness,4,0.49495,75.0,0.0
-Anytime Fitness Balmoral,Staff/Service,44,0.6839,95.45,4.55
-Anytime Fitness Balmoral,Overall Experience,30,0.6325066666666667,96.67,0.0
-Anytime Fitness Balmoral,Classes/Programs,7,0.5152928571428571,85.71,0.0
-Anytime Fitness Balmoral,Location/Accessibility,9,0.4768666666666667,77.78,0.0
-Anytime Fitness The Concourse,Cleanliness,10,0.37705,70.0,10.0
-Anytime Fitness The Concourse,Equipment,11,0.13376363636363636,54.55,27.27
-Anytime Fitness The Concourse,Facilities,6,0.006316666666666669,33.33,50.0
-Anytime Fitness The Concourse,Location/Accessibility,6,0.4583111111111111,83.33,0.0
-Anytime Fitness The Concourse,Crowdedness,4,0.465025,75.0,0.0
-Anytime Fitness The Concourse,Staff/Service,10,0.5623500000000001,100.0,0.0
-Anytime Fitness The Concourse,Overall Experience,7,0.4954142857142858,85.71,14.29
-Anytime Fitness The Concourse,Price/Fees,2,0.251675,50.0,0.0
-Anytime Fitness The Concourse,Policies/Contract,1,0.7346,100.0,0.0
-Anytime Fitness Kebun Baru CC,Staff/Service,12,0.6640722222222222,91.67,8.33
-Anytime Fitness Kebun Baru CC,Equipment,7,0.36878571428571433,71.43,14.29
-Anytime Fitness Kebun Baru CC,Facilities,6,0.4619166666666667,83.33,16.67
-Anytime Fitness Kebun Baru CC,Cleanliness,3,0.4301333333333333,66.67,0.0
-Anytime Fitness Kebun Baru CC,Policies/Contract,1,0.0,0.0,0.0
-Anytime Fitness Kebun Baru CC,Overall Experience,8,0.572175,87.5,0.0
-Anytime Fitness Kebun Baru CC,Location/Accessibility,5,0.18,40.0,0.0
-Anytime Fitness Kebun Baru CC,Crowdedness,2,0.47635,100.0,0.0
-Anytime Fitness Kebun Baru CC,Classes/Programs,1,0.0,0.0,0.0
-Anytime Fitness Kebun Baru CC,Price/Fees,1,-0.4215,0.0,100.0
-Anytime Fitness Aljunied 119,Staff/Service,38,0.5758206140350878,89.47,5.26
-Anytime Fitness Aljunied 119,Price/Fees,10,-0.01394476190476191,30.0,30.0
-Anytime Fitness Aljunied 119,Policies/Contract,6,0.010199999999999992,50.0,33.33
-Anytime Fitness Aljunied 119,Overall Experience,22,0.20386363636363633,54.55,40.91
-Anytime Fitness Aljunied 119,Equipment,14,0.5259964285714286,85.71,0.0
-Anytime Fitness Aljunied 119,Cleanliness,18,0.5871166666666666,88.89,0.0
-Anytime Fitness Aljunied 119,Facilities,14,0.36626190476190473,71.43,7.14
-Anytime Fitness Aljunied 119,Crowdedness,3,-0.07436666666666668,0.0,66.67
-Anytime Fitness Aljunied 119,Location/Accessibility,8,0.3873375,75.0,0.0
-Anytime Fitness Aljunied 119,Classes/Programs,1,0.6476,100.0,0.0
-Anytime Fitness Clementi 354,Staff/Service,17,0.7217215686274511,100.0,0.0
-Anytime Fitness Clementi 354,Facilities,11,0.4983181818181819,90.91,9.09
-Anytime Fitness Clementi 354,Equipment,7,0.6402214285714285,100.0,0.0
-Anytime Fitness Clementi 354,Price/Fees,2,0.5157,100.0,0.0
-Anytime Fitness Clementi 354,Location/Accessibility,4,0.5907500000000001,100.0,0.0
-Anytime Fitness Clementi 354,Classes/Programs,2,0.5090749999999999,100.0,0.0
-Anytime Fitness Clementi 354,Overall Experience,9,0.6189888888888889,100.0,0.0
-Anytime Fitness Clementi 354,Crowdedness,4,-0.07855,25.0,50.0
-Anytime Fitness Clementi 354,Cleanliness,6,0.581,100.0,0.0
-Anytime Fitness Kaki Bukit,Staff/Service,13,0.5320153846153847,84.62,0.0
-Anytime Fitness Kaki Bukit,Cleanliness,2,0.8025,100.0,0.0
-Anytime Fitness Kaki Bukit,Location/Accessibility,6,0.080725,33.33,16.67
-Anytime Fitness Kaki Bukit,Facilities,4,0.309375,50.0,25.0
-Anytime Fitness Kaki Bukit,Overall Experience,8,0.6246125,100.0,0.0
-Anytime Fitness Kaki Bukit,Equipment,5,0.45933999999999997,100.0,0.0
-Anytime Fitness Kaki Bukit,Classes/Programs,2,0.4201,100.0,0.0
-Anytime Fitness Kaki Bukit,Crowdedness,1,-0.296,0.0,100.0
-Anytime Fitness Kaki Bukit,Price/Fees,1,-0.296,0.0,100.0
-Anytime Fitness Cineleisure Orchard,Staff/Service,23,0.6144228260869565,86.96,4.35
-Anytime Fitness Cineleisure Orchard,Facilities,10,0.485035,80.0,10.0
-Anytime Fitness Cineleisure Orchard,Crowdedness,3,-0.09053333333333334,0.0,33.33
-Anytime Fitness Cineleisure Orchard,Location/Accessibility,4,0.3005,75.0,25.0
-Anytime Fitness Cineleisure Orchard,Equipment,12,0.49245000000000005,75.0,8.33
-Anytime Fitness Cineleisure Orchard,Overall Experience,7,0.6484,100.0,0.0
-Anytime Fitness Cineleisure Orchard,Cleanliness,13,0.6937153846153846,100.0,0.0
-Anytime Fitness Cineleisure Orchard,Policies/Contract,1,0.119175,100.0,0.0
-Anytime Fitness Simpang Bedok,Staff/Service,26,0.6666205128205129,92.31,3.85
-Anytime Fitness Simpang Bedok,Facilities,25,0.55694,88.0,0.0
-Anytime Fitness Simpang Bedok,Overall Experience,15,0.6708866666666665,100.0,0.0
-Anytime Fitness Simpang Bedok,Crowdedness,3,0.412,66.67,0.0
-Anytime Fitness Simpang Bedok,Location/Accessibility,7,0.3572285714285715,71.43,14.29
-Anytime Fitness Simpang Bedok,Classes/Programs,6,0.53548,83.33,0.0
-Anytime Fitness Simpang Bedok,Cleanliness,11,0.6776636363636364,100.0,0.0
-Anytime Fitness Simpang Bedok,Equipment,12,0.5099166666666667,83.33,0.0
-Anytime Fitness NTU,Equipment,10,0.3434499999999999,80.0,10.0
-Anytime Fitness NTU,Location/Accessibility,2,0.36755,50.0,0.0
-Anytime Fitness NTU,Staff/Service,9,0.5762555555555555,88.89,0.0
-Anytime Fitness NTU,Overall Experience,8,0.4930583333333333,87.5,12.5
-Anytime Fitness NTU,Cleanliness,4,0.49934999999999996,75.0,0.0
-Anytime Fitness NTU,Facilities,5,0.48112000000000005,100.0,0.0
-Anytime Fitness NTU,Price/Fees,1,-0.4767,0.0,100.0
-Anytime Fitness NTU,Policies/Contract,1,0.6728,100.0,0.0
-Anytime Fitness Eastwood Centre,Staff/Service,40,0.6987995833333334,100.0,0.0
-Anytime Fitness Eastwood Centre,Cleanliness,15,0.5931466666666666,100.0,0.0
-Anytime Fitness Eastwood Centre,Equipment,22,0.4874378787878788,77.27,0.0
-Anytime Fitness Eastwood Centre,Facilities,17,0.5692088235294118,94.12,0.0
-Anytime Fitness Eastwood Centre,Crowdedness,6,0.48974999999999996,83.33,0.0
-Anytime Fitness Eastwood Centre,Overall Experience,21,0.6155453968253968,100.0,0.0
-Anytime Fitness Eastwood Centre,Classes/Programs,5,0.34536,40.0,0.0
-Anytime Fitness Eastwood Centre,Price/Fees,3,0.6611666666666666,100.0,0.0
-Anytime Fitness Eastwood Centre,Location/Accessibility,8,0.5851999999999999,87.5,0.0
-Anytime Fitness Eastwood Centre,Policies/Contract,1,0.0,0.0,0.0
-Anytime Fitness Punggol Waterway,Staff/Service,35,0.6358642857142857,94.29,2.86
-Anytime Fitness Punggol Waterway,Equipment,15,0.2985077777777778,73.33,20.0
-Anytime Fitness Punggol Waterway,Overall Experience,23,0.6049057971014493,95.65,4.35
-Anytime Fitness Punggol Waterway,Cleanliness,21,0.6136809523809523,95.24,0.0
-Anytime Fitness Punggol Waterway,Facilities,15,0.4093033333333333,73.33,13.33
-Anytime Fitness Punggol Waterway,Crowdedness,3,0.35651666666666665,66.67,0.0
-Anytime Fitness Punggol Waterway,Location/Accessibility,11,0.483,81.82,9.09
-Anytime Fitness Punggol Waterway,Classes/Programs,3,0.46103333333333335,100.0,0.0
-Anytime Fitness Punggol Waterway,Policies/Contract,3,0.323,66.67,33.33
-Anytime Fitness Punggol Waterway,Price/Fees,1,0.7845,100.0,0.0
-Anytime Fitness Bedok 200 North Ave 1,Equipment,3,0.48075,66.67,0.0
-Anytime Fitness Bedok 200 North Ave 1,Location/Accessibility,2,0.6131,100.0,0.0
-Anytime Fitness Bedok 200 North Ave 1,Overall Experience,1,0.9762,100.0,0.0
-Anytime Fitness Bedok 200 North Ave 1,Facilities,3,0.4955583333333333,100.0,0.0
-Anytime Fitness Bedok 200 North Ave 1,Crowdedness,2,0.754,100.0,0.0
-Anytime Fitness Bedok 200 North Ave 1,Staff/Service,1,0.7184,100.0,0.0
-Anytime Fitness Rochester,Staff/Service,8,0.573496875,100.0,0.0
-Anytime Fitness Rochester,Facilities,6,0.5663833333333333,83.33,0.0
-Anytime Fitness Rochester,Overall Experience,22,0.7302965909090908,100.0,0.0
-Anytime Fitness Rochester,Equipment,4,0.42235,75.0,25.0
-Anytime Fitness Rochester,Cleanliness,4,0.6013,100.0,0.0
-Anytime Fitness Rochester,Policies/Contract,1,0.6249,100.0,0.0
-Anytime Fitness Rochester,Price/Fees,1,0.7964,100.0,0.0
-Anytime Fitness Rochester,Location/Accessibility,2,0.3707,50.0,0.0
-Anytime Fitness Rochester,Classes/Programs,1,0.7636000000000001,100.0,0.0
-Anytime Fitness Labrador View,Staff/Service,13,0.6794,100.0,0.0
-Anytime Fitness Labrador View,Crowdedness,4,0.157825,50.0,0.0
-Anytime Fitness Labrador View,Facilities,7,0.5701928571428572,100.0,0.0
-Anytime Fitness Labrador View,Overall Experience,7,0.5006928571428572,85.71,0.0
-Anytime Fitness Labrador View,Cleanliness,6,0.58315,100.0,0.0
-Anytime Fitness Labrador View,Equipment,8,0.48596458333333337,87.5,12.5
-Anytime Fitness Labrador View,Policies/Contract,2,0.5176000000000001,100.0,0.0
-Anytime Fitness Labrador View,Classes/Programs,1,0.6212,100.0,0.0
-Anytime Fitness Labrador View,Location/Accessibility,3,0.5037666666666667,66.67,0.0
-Anytime Fitness Labrador View,Price/Fees,1,0.2942,100.0,0.0
-Anytime Fitness Bishan 227,Staff/Service,7,0.7553285714285715,100.0,0.0
-Anytime Fitness Bishan 227,Overall Experience,3,0.5447000000000001,100.0,0.0
-Anytime Fitness Bishan 227,Equipment,3,0.11333333333333334,33.33,0.0
-Anytime Fitness Bishan 227,Location/Accessibility,4,0.224975,25.0,0.0
-Anytime Fitness Bishan 227,Cleanliness,2,0.52165,100.0,0.0
-Anytime Fitness Bishan 227,Crowdedness,3,0.5678,100.0,0.0
-Anytime Fitness Bishan 227,Facilities,1,0.34,100.0,0.0
-Anytime Fitness Bishan 227,Price/Fees,1,0.34,100.0,0.0
-Anytime Fitness Clarke Quay,Location/Accessibility,7,0.40068571428571426,57.14,14.29
-Anytime Fitness Clarke Quay,Overall Experience,9,0.6817222222222221,88.89,0.0
-Anytime Fitness Clarke Quay,Cleanliness,12,0.47957500000000003,83.33,0.0
-Anytime Fitness Clarke Quay,Facilities,10,0.5081816666666666,100.0,0.0
-Anytime Fitness Clarke Quay,Staff/Service,11,0.5626272727272726,90.91,9.09
-Anytime Fitness Clarke Quay,Equipment,12,0.4051291666666666,83.33,8.33
-Anytime Fitness Clarke Quay,Crowdedness,4,0.47965,100.0,0.0
-Anytime Fitness Clarke Quay,Price/Fees,1,0.7717,100.0,0.0
-Anytime Fitness Clarke Quay,Policies/Contract,1,0.875,100.0,0.0
-Anytime Fitness Bukit Merah Central,Staff/Service,2,0.47816666666666663,100.0,0.0
-Anytime Fitness Bukit Merah Central,Overall Experience,7,0.4143428571428572,71.43,28.57
-Anytime Fitness Bukit Merah Central,Equipment,2,-0.0998125,0.0,50.0
-Anytime Fitness Bukit Merah Central,Cleanliness,1,0.4019,100.0,0.0
-Anytime Fitness Bukit Merah Central,Facilities,2,-0.07775000000000001,50.0,50.0
-Anytime Fitness Bukit Merah Central,Crowdedness,1,0.0,0.0,0.0
-Anytime Fitness Dakota,Staff/Service,3,0.7938000000000001,100.0,0.0
-Anytime Fitness Dakota,Facilities,2,0.61675,100.0,0.0
-Anytime Fitness Dakota,Overall Experience,3,0.6234666666666667,100.0,0.0
-Anytime Fitness Dakota,Cleanliness,3,0.6529666666666666,100.0,0.0
-Anytime Fitness Dakota,Equipment,2,0.5989,100.0,0.0
-Anytime Fitness Dakota,Crowdedness,2,0.5989,100.0,0.0
-Anytime Fitness Tampines 487,Staff/Service,18,0.7184972222222222,100.0,0.0
-Anytime Fitness Tampines 487,Price/Fees,1,0.6808,100.0,0.0
-Anytime Fitness Tampines 487,Overall Experience,11,0.6794030303030303,100.0,0.0
-Anytime Fitness Tampines 487,Facilities,7,0.39618571428571425,57.14,0.0
-Anytime Fitness Tampines 487,Equipment,9,0.522938888888889,77.78,0.0
-Anytime Fitness Tampines 487,Cleanliness,6,0.7612,100.0,0.0
-Anytime Fitness Tampines 487,Location/Accessibility,3,0.3326,66.67,0.0
-Anytime Fitness Tampines 487,Policies/Contract,2,0.83815,100.0,0.0
-Anytime Fitness Yew Tee 614,Staff/Service,1,0.9482,100.0,0.0
-Anytime Fitness Yew Tee 614,Cleanliness,1,0.8934,100.0,0.0
-Anytime Fitness Yew Tee 614,Facilities,1,0.8934,100.0,0.0
-Anytime Fitness Yew Tee 614,Overall Experience,1,0.8610333333333333,100.0,0.0
-Anytime Fitness Joo Chiat,Staff/Service,1,0.6114,100.0,0.0
-Anytime Fitness ACE The Place CC,Staff/Service,1,0.7263999999999999,100.0,0.0
-Anytime Fitness ACE The Place CC,Facilities,1,0.762,100.0,0.0
-Anytime Fitness ACE The Place CC,Location/Accessibility,1,0.6908,100.0,0.0
-Anytime Fitness ACE The Place CC,Classes/Programs,1,0.4286,100.0,0.0
-Anytime Fitness ACE The Place CC,Overall Experience,1,0.762,100.0,0.0

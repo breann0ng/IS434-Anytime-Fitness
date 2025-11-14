@@ -59,9 +59,15 @@ def clean_reviews(df: pd.DataFrame) -> pd.DataFrame:
     # Ensure rating numeric where possible
     df["rating"] = pd.to_numeric(df["rating"], errors="coerce")
 
-    # Normalise date format (keep original string for reference)
-    df["date_posted_raw"] = df["date_posted"]
-    df["date_posted"] = pd.to_datetime(df["date_posted"], errors="coerce")
+    # Normalise date format (prefer normalized column when available)
+    normalized_available = "date_posted_normalized" in df.columns
+    df["date_posted_raw"] = df["date_posted_normalized"] if normalized_available else df["date_posted"]
+    original_dates = pd.to_datetime(df["date_posted"], errors="coerce")
+    if normalized_available:
+        normalized_dates = pd.to_datetime(df["date_posted_normalized"], errors="coerce")
+        df["date_posted"] = normalized_dates.fillna(original_dates)
+    else:
+        df["date_posted"] = original_dates
 
     # Remove exact duplicate reviews based on review_id or text fallback
     if df["review_id"].notna().any():
