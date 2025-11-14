@@ -6,6 +6,7 @@ This version filters to recent data for clearer trends
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
 import seaborn as sns
 from collections import defaultdict
 import re
@@ -235,6 +236,7 @@ def analyze_temporal_trends_recent(input_file, start_year=2022, output_prefix='t
     
     # Create improved visualization
     create_improved_temporal_visualization(temporal_df, start_year, output_prefix)
+    create_smoothed_temporal_visualization(temporal_df, start_year, output_prefix, window=3)
     
     # Print summary
     print_temporal_summary(temporal_df, start_year)
@@ -353,6 +355,93 @@ def create_change_chart(temporal_df, top_aspects, colors, output_prefix):
     change_file = f'{output_prefix}_change.png'
     plt.savefig(change_file, dpi=300, bbox_inches='tight')
     print(f"✓ Saved change chart: {change_file}")
+    plt.close()
+
+
+def create_smoothed_temporal_visualization(temporal_df, start_year, output_prefix, window=3):
+    """Create rolling-average temporal visualizations for easier trend reading"""
+    
+    if temporal_df.empty:
+        return
+    
+    print(f"\nCreating {window}-month rolling average visualization...")
+    
+    colors = {
+        'Facilities': '#e74c3c',
+        'Price/Fees': '#2ecc71', 
+        'Policies/Contract': '#f39c12',
+        'Equipment': '#3498db',
+        'Crowdedness': '#9b59b6',
+        'Staff/Service': '#1abc9c',
+        'Cleanliness': '#e67e22',
+        'Location/Accessibility': '#34495e',
+        'Overall Experience': '#95a5a6'
+    }
+    
+    temp = temporal_df.copy()
+    temp['Period'] = pd.PeriodIndex(temp['Period'], freq='M')
+    temp = temp.sort_values(['Period', 'Aspect'])
+    pivot = temp.pivot(index='Period', columns='Aspect', values='Avg_Sentiment').sort_index()
+    pivot_index = pivot.index.to_timestamp()
+    smoothed = pivot.rolling(window=window, min_periods=1).mean()
+    smoothed.index = pivot_index
+    
+    top_aspects = temporal_df.groupby('Aspect')['Count'].sum().nlargest(5).index
+    
+    fig, ax = plt.subplots(figsize=(16, 9))
+    for aspect in top_aspects:
+        if aspect in smoothed.columns:
+            series = smoothed[aspect].dropna()
+            if not series.empty:
+                ax.plot(series.index, series.values,
+                        label=f"{aspect} ({window}-month avg)", linewidth=2.5,
+                        color=colors.get(aspect, '#555555'))
+    
+    ax.axhline(y=0, color='black', linestyle='-', linewidth=1, alpha=0.5)
+    ax.axhline(y=0.05, color='green', linestyle='--', linewidth=0.8, alpha=0.3)
+    ax.axhline(y=-0.05, color='red', linestyle='--', linewidth=0.8, alpha=0.3)
+    ax.set_xlabel('Time Period (Month)', fontsize=13, fontweight='bold')
+    ax.set_ylabel('Average Sentiment Score', fontsize=13, fontweight='bold')
+    ax.set_title(f'{window}-Month Rolling Average Sentiment Trends ({start_year} onwards)',
+                 fontsize=15, fontweight='bold', pad=20)
+    ax.legend(loc='best', fontsize=10, framealpha=0.9)
+    ax.grid(alpha=0.3, linestyle='--')
+    ax.xaxis.set_major_locator(mdates.MonthLocator(interval=3))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m'))
+    plt.xticks(rotation=45, ha='right')
+    plt.tight_layout()
+    
+    smoothed_file = f'{output_prefix}_smoothed.png'
+    plt.savefig(smoothed_file, dpi=300, bbox_inches='tight')
+    print(f"✓ Saved smoothed visualization: {smoothed_file}")
+    plt.close()
+    
+    print("Creating smoothed sentiment change chart...")
+    smoothed_diff = smoothed.diff()
+    fig, ax = plt.subplots(figsize=(16, 9))
+    for aspect in top_aspects:
+        if aspect in smoothed_diff.columns:
+            series = smoothed_diff[aspect].dropna()
+            if not series.empty:
+                ax.plot(series.index, series.values,
+                        label=f"{aspect} ({window}-month avg)", linewidth=2.0,
+                        color=colors.get(aspect, '#555555'))
+    
+    ax.axhline(y=0, color='black', linestyle='-', linewidth=1, alpha=0.5)
+    ax.set_xlabel('Time Period (Month)', fontsize=13, fontweight='bold')
+    ax.set_ylabel('Month-over-Month Sentiment Change', fontsize=13, fontweight='bold')
+    ax.set_title(f'{window}-Month Rolling Sentiment Change ({start_year} onwards)',
+                 fontsize=15, fontweight='bold', pad=20)
+    ax.legend(loc='best', fontsize=10, framealpha=0.9)
+    ax.grid(alpha=0.3, linestyle='--')
+    ax.xaxis.set_major_locator(mdates.MonthLocator(interval=3))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m'))
+    plt.xticks(rotation=45, ha='right')
+    plt.tight_layout()
+    
+    smoothed_change_file = f'{output_prefix}_smoothed_change.png'
+    plt.savefig(smoothed_change_file, dpi=300, bbox_inches='tight')
+    print(f"✓ Saved smoothed change chart: {smoothed_change_file}")
     plt.close()
 
 # ============================================================================
